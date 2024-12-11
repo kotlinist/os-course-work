@@ -1,0 +1,1087 @@
+2024-12-03T22:02:48+03:00> Collector started
+2024-12-03T22:02:56+03:00> Client connected (1e82a2b7-92df-40d0-8577-3979db380107)
+2024-12-03T22:02:56+03:00> [1e82a2b7-92df-40d0-8577-3979db380107]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T22:03:00+03:00> error reading from client: EOF
+2024-12-03T22:03:00+03:00> Client disconnected (1e82a2b7-92df-40d0-8577-3979db380107)
+2024-12-03T22:03:35+03:00> Client connected (df2b4643-702f-4450-a214-32f1ee550afa)
+2024-12-03T22:03:35+03:00> [df2b4643-702f-4450-a214-32f1ee550afa]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T22:03:39+03:00> error reading from client: EOF
+2024-12-03T22:03:39+03:00> Client disconnected (df2b4643-702f-4450-a214-32f1ee550afa)
+2024-12-03T22:59:57+03:00> Collector shutdown
+2024-12-03T23:03:04+03:00> Collector started
+2024-12-04T00:11:33+03:00> Client connected (ed7f1b2a-46d2-4e73-b3ff-4db05606e617)
+2024-12-04T00:11:33+03:00> [ed7f1b2a-46d2-4e73-b3ff-4db05606e617]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-04T00:11:36+03:00> error reading from client: EOF
+2024-12-04T00:11:36+03:00> Client disconnected (ed7f1b2a-46d2-4e73-b3ff-4db05606e617)
+2024-12-04T00:11:37+03:00> Client connected (68182078-1b5c-4148-829a-1ddfeb823be7)
+2024-12-04T00:11:37+03:00> [68182078-1b5c-4148-829a-1ddfeb823be7]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-04T00:11:38+03:00> error reading from client: EOF
+2024-12-04T00:11:38+03:00> Client disconnected (68182078-1b5c-4148-829a-1ddfeb823be7)
+2024-12-04T00:11:39+03:00> Client connected (4f542d77-6782-4180-bdc3-40c83067995f)
+2024-12-04T00:11:39+03:00> [4f542d77-6782-4180-bdc3-40c83067995f]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-04T00:11:41+03:00> error reading from client: EOF
+2024-12-04T00:11:41+03:00> Client disconnected (4f542d77-6782-4180-bdc3-40c83067995f)
+2024-12-04T00:18:00+03:00> Client connected (b7786b78-af17-40bb-b1ee-97c2d149aa69)
+2024-12-04T00:18:00+03:00> [b7786b78-af17-40bb-b1ee-97c2d149aa69]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-04T00:18:03+03:00> error reading from client: EOF
+2024-12-04T00:18:03+03:00> Client disconnected (b7786b78-af17-40bb-b1ee-97c2d149aa69)
+2024-12-04T00:18:04+03:00> Client connected (9858ff5f-c7f9-4698-96ac-11f758c6619b)
+2024-12-04T00:18:04+03:00> [9858ff5f-c7f9-4698-96ac-11f758c6619b]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-04T00:18:06+03:00> error reading from client: EOF
+2024-12-04T00:18:06+03:00> Client disconnected (9858ff5f-c7f9-4698-96ac-11f758c6619b)
+2024-12-04T00:18:09+03:00> Client connected (81bdc046-83b6-4de5-888d-86d68ae13dce)
+2024-12-04T00:18:09+03:00> [81bdc046-83b6-4de5-888d-86d68ae13dce]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-04T00:18:11+03:00> error reading from client: EOF
+2024-12-04T00:18:11+03:00> Client disconnected (81bdc046-83b6-4de5-888d-86d68ae13dce)
+2024-12-04T00:18:12+03:00> Client connected (d2c5f943-a35a-46c6-9807-56a0f6ceb6e8)
+2024-12-04T00:18:12+03:00> [d2c5f943-a35a-46c6-9807-56a0f6ceb6e8]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-04T00:18:13+03:00> error reading from client: EOF
+2024-12-04T00:18:13+03:00> Client disconnected (d2c5f943-a35a-46c6-9807-56a0f6ceb6e8)
+2024-12-06T22:15:36+03:00> Collector started
+2024-12-06T22:16:28+03:00> Client connected (b44d4c5c-e2c0-4d8a-a067-f030773c2a41)
+2024-12-06T22:16:28+03:00> [b44d4c5c-e2c0-4d8a-a067-f030773c2a41]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:16:34+03:00> error reading from client: EOF
+2024-12-06T22:16:34+03:00> Client disconnected (b44d4c5c-e2c0-4d8a-a067-f030773c2a41)
+2024-12-06T22:17:05+03:00> Client connected (7113b8f3-a2cc-4052-92c5-41395bfb5556)
+2024-12-06T22:17:05+03:00> [7113b8f3-a2cc-4052-92c5-41395bfb5556]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:17:08+03:00> error reading from client: EOF
+2024-12-06T22:17:08+03:00> Client disconnected (7113b8f3-a2cc-4052-92c5-41395bfb5556)
+2024-12-06T22:19:44+03:00> Client connected (015d05ae-e654-4c90-84f9-056c4663b78d)
+2024-12-06T22:19:44+03:00> [015d05ae-e654-4c90-84f9-056c4663b78d]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-06T22:19:46+03:00> error reading from client: EOF
+2024-12-06T22:19:46+03:00> Client disconnected (015d05ae-e654-4c90-84f9-056c4663b78d)
+2024-12-06T22:19:48+03:00> Client connected (0a4b4070-05fa-4239-aa01-6c6d996b3c9e)
+2024-12-06T22:19:48+03:00> [0a4b4070-05fa-4239-aa01-6c6d996b3c9e]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:19:51+03:00> error reading from client: EOF
+2024-12-06T22:19:51+03:00> Client disconnected (0a4b4070-05fa-4239-aa01-6c6d996b3c9e)
+2024-12-06T22:20:33+03:00> Client connected (d25183fc-80d6-4cc6-9da4-5b811f6f7f4a)
+2024-12-06T22:20:33+03:00> [d25183fc-80d6-4cc6-9da4-5b811f6f7f4a]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:20:36+03:00> error reading from client: EOF
+2024-12-06T22:20:36+03:00> Client disconnected (d25183fc-80d6-4cc6-9da4-5b811f6f7f4a)
+2024-12-06T22:22:57+03:00> Client connected (f73e66a1-3368-40ce-947b-4a05fd051776)
+2024-12-06T22:22:57+03:00> [f73e66a1-3368-40ce-947b-4a05fd051776]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:23:01+03:00> error reading from client: EOF
+2024-12-06T22:23:01+03:00> Client disconnected (f73e66a1-3368-40ce-947b-4a05fd051776)
+2024-12-06T22:23:38+03:00> Client connected (29866f2c-f436-4dea-bdf3-53f1631ab031)
+2024-12-06T22:23:38+03:00> [29866f2c-f436-4dea-bdf3-53f1631ab031]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:23:41+03:00> error reading from client: EOF
+2024-12-06T22:23:41+03:00> Client disconnected (29866f2c-f436-4dea-bdf3-53f1631ab031)
+2024-12-06T22:24:09+03:00> Client connected (f613bb24-3537-4eaf-ae19-c095494617eb)
+2024-12-06T22:24:09+03:00> [f613bb24-3537-4eaf-ae19-c095494617eb]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:24:11+03:00> error reading from client: EOF
+2024-12-06T22:24:11+03:00> Client disconnected (f613bb24-3537-4eaf-ae19-c095494617eb)
+2024-12-06T22:24:34+03:00> Client connected (3cb1f10e-5110-4a44-969a-d1a2789ccb1e)
+2024-12-06T22:24:34+03:00> [3cb1f10e-5110-4a44-969a-d1a2789ccb1e]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:24:37+03:00> error reading from client: EOF
+2024-12-06T22:24:37+03:00> Client disconnected (3cb1f10e-5110-4a44-969a-d1a2789ccb1e)
+2024-12-06T22:26:13+03:00> Client connected (144d1aac-136d-447a-a9d5-c5a7ca53120b)
+2024-12-06T22:26:13+03:00> [144d1aac-136d-447a-a9d5-c5a7ca53120b]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-06T22:26:16+03:00> error reading from client: EOF
+2024-12-06T22:26:16+03:00> Client disconnected (144d1aac-136d-447a-a9d5-c5a7ca53120b)
+2024-12-06T22:26:19+03:00> Client connected (7aeba6a2-79f9-499c-9603-c5a7341b3dfb)
+2024-12-06T22:26:19+03:00> [7aeba6a2-79f9-499c-9603-c5a7341b3dfb]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-06T22:26:20+03:00> error reading from client: EOF
+2024-12-06T22:26:20+03:00> Client disconnected (7aeba6a2-79f9-499c-9603-c5a7341b3dfb)
+2024-12-06T22:26:22+03:00> Client connected (d78084cc-4fb6-4bfa-8289-4e199c0012aa)
+2024-12-06T22:26:22+03:00> [d78084cc-4fb6-4bfa-8289-4e199c0012aa]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:26:24+03:00> error reading from client: EOF
+2024-12-06T22:26:24+03:00> Client disconnected (d78084cc-4fb6-4bfa-8289-4e199c0012aa)
+2024-12-06T22:26:51+03:00> Client connected (dad83575-4fa6-4884-a38c-beeaa85eebb7)
+2024-12-06T22:26:51+03:00> [dad83575-4fa6-4884-a38c-beeaa85eebb7]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:26:53+03:00> error reading from client: EOF
+2024-12-06T22:26:53+03:00> Client disconnected (dad83575-4fa6-4884-a38c-beeaa85eebb7)
+2024-12-06T22:28:49+03:00> Client connected (85f27d70-a6bc-41be-b68f-6989b67b4f11)
+2024-12-06T22:28:49+03:00> [85f27d70-a6bc-41be-b68f-6989b67b4f11]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T22:28:51+03:00> error reading from client: EOF
+2024-12-06T22:28:51+03:00> Client disconnected (85f27d70-a6bc-41be-b68f-6989b67b4f11)
+2024-12-06T23:24:53+03:00> Client connected (a7e8c0a5-b72d-4df5-b0ed-5acf8eb49d65)
+2024-12-06T23:24:53+03:00> [a7e8c0a5-b72d-4df5-b0ed-5acf8eb49d65]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-06T23:24:55+03:00> error reading from client: EOF
+2024-12-06T23:24:55+03:00> Client disconnected (a7e8c0a5-b72d-4df5-b0ed-5acf8eb49d65)
+2024-12-07T17:30:32+03:00> Client connected (9679f171-908e-4699-b6fc-b2ebedb21ade)
+2024-12-07T17:30:32+03:00> [9679f171-908e-4699-b6fc-b2ebedb21ade]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T17:30:35+03:00> error reading from client: EOF
+2024-12-07T17:30:35+03:00> Client disconnected (9679f171-908e-4699-b6fc-b2ebedb21ade)
+2024-12-07T17:34:14+03:00> Client connected (c3cab60b-d08f-4dab-8728-71497bbefa43)
+2024-12-07T17:34:14+03:00> [c3cab60b-d08f-4dab-8728-71497bbefa43]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T17:34:16+03:00> error reading from client: EOF
+2024-12-07T17:34:16+03:00> Client disconnected (c3cab60b-d08f-4dab-8728-71497bbefa43)
+2024-12-07T17:36:42+03:00> Client connected (91eb1bac-f99a-4e6c-93a7-48f8c667a3a1)
+2024-12-07T17:36:42+03:00> [91eb1bac-f99a-4e6c-93a7-48f8c667a3a1]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T19:07:35+03:00> error reading from client: EOF
+2024-12-07T19:07:35+03:00> Client disconnected (91eb1bac-f99a-4e6c-93a7-48f8c667a3a1)
+2024-12-07T20:13:22+03:00> Client connected (86203fe1-600a-4c39-9032-f59d1a061f90)
+2024-12-07T20:13:22+03:00> [86203fe1-600a-4c39-9032-f59d1a061f90]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:13:28+03:00> error reading from client: EOF
+2024-12-07T20:13:28+03:00> Client disconnected (86203fe1-600a-4c39-9032-f59d1a061f90)
+2024-12-07T20:16:33+03:00> Client connected (cd542a71-d6e2-48ec-a9ce-7b4e6f3c184e)
+2024-12-07T20:16:33+03:00> [cd542a71-d6e2-48ec-a9ce-7b4e6f3c184e]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:16:35+03:00> error reading from client: EOF
+2024-12-07T20:16:35+03:00> Client disconnected (cd542a71-d6e2-48ec-a9ce-7b4e6f3c184e)
+2024-12-07T20:17:04+03:00> Client connected (89e2cd4d-7101-44d5-90d0-0a81ee5494db)
+2024-12-07T20:17:04+03:00> [89e2cd4d-7101-44d5-90d0-0a81ee5494db]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:17:07+03:00> error reading from client: EOF
+2024-12-07T20:17:07+03:00> Client disconnected (89e2cd4d-7101-44d5-90d0-0a81ee5494db)
+2024-12-07T20:18:16+03:00> Client connected (f9230c4f-3ba6-45ac-9255-312fb71a8deb)
+2024-12-07T20:18:16+03:00> [f9230c4f-3ba6-45ac-9255-312fb71a8deb]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:18:20+03:00> error reading from client: EOF
+2024-12-07T20:18:20+03:00> Client disconnected (f9230c4f-3ba6-45ac-9255-312fb71a8deb)
+2024-12-07T20:18:40+03:00> Client connected (f73f92c4-9f52-4ea9-a4f2-1add44d3df7a)
+2024-12-07T20:18:40+03:00> [f73f92c4-9f52-4ea9-a4f2-1add44d3df7a]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:18:44+03:00> error reading from client: EOF
+2024-12-07T20:18:44+03:00> Client disconnected (f73f92c4-9f52-4ea9-a4f2-1add44d3df7a)
+2024-12-07T20:19:04+03:00> Client connected (f5a7817a-dde8-4ffc-83ec-d0f5ac09dae3)
+2024-12-07T20:19:04+03:00> [f5a7817a-dde8-4ffc-83ec-d0f5ac09dae3]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:19:06+03:00> error reading from client: EOF
+2024-12-07T20:19:06+03:00> Client disconnected (f5a7817a-dde8-4ffc-83ec-d0f5ac09dae3)
+2024-12-07T20:22:06+03:00> Client connected (9c64ca89-d681-4ff4-834f-5b720696a24f)
+2024-12-07T20:22:06+03:00> [9c64ca89-d681-4ff4-834f-5b720696a24f]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-07T20:22:08+03:00> error reading from client: EOF
+2024-12-07T20:22:08+03:00> Client disconnected (9c64ca89-d681-4ff4-834f-5b720696a24f)
+2024-12-07T20:22:09+03:00> Client connected (330afa9d-e030-46b2-ac41-e3a946aca9a4)
+2024-12-07T20:22:09+03:00> [330afa9d-e030-46b2-ac41-e3a946aca9a4]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:22:11+03:00> error reading from client: EOF
+2024-12-07T20:22:11+03:00> Client disconnected (330afa9d-e030-46b2-ac41-e3a946aca9a4)
+2024-12-07T20:29:37+03:00> Client connected (f4993883-9294-4245-a710-be0d993ccd34)
+2024-12-07T20:29:37+03:00> [f4993883-9294-4245-a710-be0d993ccd34]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:29:41+03:00> error reading from client: EOF
+2024-12-07T20:29:41+03:00> Client disconnected (f4993883-9294-4245-a710-be0d993ccd34)
+2024-12-07T20:30:09+03:00> Client connected (6e654dca-b544-4035-97d7-b3f360b7f05f)
+2024-12-07T20:30:09+03:00> [6e654dca-b544-4035-97d7-b3f360b7f05f]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:30:17+03:00> error reading from client: EOF
+2024-12-07T20:30:17+03:00> Client disconnected (6e654dca-b544-4035-97d7-b3f360b7f05f)
+2024-12-07T20:30:30+03:00> Client connected (62c44cf3-047d-4213-abb5-218ff4643cfc)
+2024-12-07T20:30:30+03:00> [62c44cf3-047d-4213-abb5-218ff4643cfc]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:30:33+03:00> error reading from client: EOF
+2024-12-07T20:30:33+03:00> Client disconnected (62c44cf3-047d-4213-abb5-218ff4643cfc)
+2024-12-07T20:30:34+03:00> Client connected (d75c0f48-9a5e-4056-8ec6-61bdedc19604)
+2024-12-07T20:30:34+03:00> [d75c0f48-9a5e-4056-8ec6-61bdedc19604]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:30:37+03:00> error reading from client: EOF
+2024-12-07T20:30:37+03:00> Client disconnected (d75c0f48-9a5e-4056-8ec6-61bdedc19604)
+2024-12-07T20:31:50+03:00> Client connected (9d0a1874-96e9-4218-afaa-2d9f5c2e559a)
+2024-12-07T20:31:50+03:00> [9d0a1874-96e9-4218-afaa-2d9f5c2e559a]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:31:52+03:00> error reading from client: EOF
+2024-12-07T20:31:52+03:00> Client disconnected (9d0a1874-96e9-4218-afaa-2d9f5c2e559a)
+2024-12-07T20:32:47+03:00> Client connected (4073129d-4844-492a-8f61-432c0f9d890e)
+2024-12-07T20:32:47+03:00> [4073129d-4844-492a-8f61-432c0f9d890e]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:32:49+03:00> error reading from client: EOF
+2024-12-07T20:32:49+03:00> Client disconnected (4073129d-4844-492a-8f61-432c0f9d890e)
+2024-12-07T20:36:01+03:00> Client connected (bf3ff7ab-82c7-4cea-b12f-752040539379)
+2024-12-07T20:36:01+03:00> [bf3ff7ab-82c7-4cea-b12f-752040539379]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:36:11+03:00> error reading from client: EOF
+2024-12-07T20:36:11+03:00> Client disconnected (bf3ff7ab-82c7-4cea-b12f-752040539379)
+2024-12-07T20:38:22+03:00> Client connected (f5eb409c-2d3d-4440-8174-723ab002cc25)
+2024-12-07T20:38:22+03:00> [f5eb409c-2d3d-4440-8174-723ab002cc25]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:38:30+03:00> error reading from client: EOF
+2024-12-07T20:38:30+03:00> Client disconnected (f5eb409c-2d3d-4440-8174-723ab002cc25)
+2024-12-07T20:40:41+03:00> Client connected (06f10cc7-491a-403a-87b2-1c1fdf5839f4)
+2024-12-07T20:40:41+03:00> [06f10cc7-491a-403a-87b2-1c1fdf5839f4]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:40:43+03:00> Client connected (8b0e461c-0102-4197-b06d-8f2d2725a16c)
+2024-12-07T20:40:43+03:00> [8b0e461c-0102-4197-b06d-8f2d2725a16c]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:40:44+03:00> Client connected (a1ec94fc-b924-41a4-a968-e738f66d74e0)
+2024-12-07T20:40:44+03:00> [a1ec94fc-b924-41a4-a968-e738f66d74e0]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:41:05+03:00> Client connected (17138059-7a9f-4c4d-a9c8-851d54e08310)
+2024-12-07T20:41:05+03:00> [17138059-7a9f-4c4d-a9c8-851d54e08310]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:41:06+03:00> Client connected (049c11ee-def6-457f-89f7-ccba150a8727)
+2024-12-07T20:41:06+03:00> [049c11ee-def6-457f-89f7-ccba150a8727]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T20:41:33+03:00> error reading from client: EOF
+2024-12-07T20:41:33+03:00> Client disconnected (06f10cc7-491a-403a-87b2-1c1fdf5839f4)
+2024-12-07T20:41:33+03:00> error reading from client: EOF
+2024-12-07T20:41:33+03:00> Client disconnected (8b0e461c-0102-4197-b06d-8f2d2725a16c)
+2024-12-07T20:41:33+03:00> error reading from client: EOF
+2024-12-07T20:41:33+03:00> Client disconnected (a1ec94fc-b924-41a4-a968-e738f66d74e0)
+2024-12-07T20:41:33+03:00> error reading from client: EOF
+2024-12-07T20:41:33+03:00> Client disconnected (17138059-7a9f-4c4d-a9c8-851d54e08310)
+2024-12-07T20:41:33+03:00> error reading from client: EOF
+2024-12-07T20:41:33+03:00> Client disconnected (049c11ee-def6-457f-89f7-ccba150a8727)
+2024-12-07T21:17:26+03:00> Client connected (4a573339-9bcf-45cc-bbf9-038dc7870217)
+2024-12-07T21:17:26+03:00> [4a573339-9bcf-45cc-bbf9-038dc7870217]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:17:30+03:00> error reading from client: EOF
+2024-12-07T21:17:30+03:00> Client disconnected (4a573339-9bcf-45cc-bbf9-038dc7870217)
+2024-12-07T21:18:08+03:00> Client connected (3366abee-fd97-4142-9a0e-7cd959a35e58)
+2024-12-07T21:18:08+03:00> [3366abee-fd97-4142-9a0e-7cd959a35e58]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:19:03+03:00> Client connected (404eec2d-b23f-4035-8331-af37996dd353)
+2024-12-07T21:19:03+03:00> [404eec2d-b23f-4035-8331-af37996dd353]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:19:05+03:00> Client connected (43387fed-4f16-4e5f-8af8-570b5130044f)
+2024-12-07T21:19:05+03:00> [43387fed-4f16-4e5f-8af8-570b5130044f]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:19:06+03:00> error reading from client: EOF
+2024-12-07T21:19:06+03:00> Client disconnected (43387fed-4f16-4e5f-8af8-570b5130044f)
+2024-12-07T21:22:17+03:00> error reading from client: EOF
+2024-12-07T21:22:17+03:00> Client disconnected (3366abee-fd97-4142-9a0e-7cd959a35e58)
+2024-12-07T21:22:17+03:00> error reading from client: EOF
+2024-12-07T21:22:17+03:00> Client disconnected (404eec2d-b23f-4035-8331-af37996dd353)
+2024-12-07T21:24:20+03:00> Client connected (63952db6-a101-4ee4-a4b4-4a334b5aba66)
+2024-12-07T21:24:20+03:00> [63952db6-a101-4ee4-a4b4-4a334b5aba66]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:24:33+03:00> error reading from client: EOF
+2024-12-07T21:24:33+03:00> Client disconnected (63952db6-a101-4ee4-a4b4-4a334b5aba66)
+2024-12-07T21:26:50+03:00> Client connected (38540da3-d7ad-4ed3-920c-420e78c4a2cb)
+2024-12-07T21:26:50+03:00> [38540da3-d7ad-4ed3-920c-420e78c4a2cb]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:26:53+03:00> error reading from client: EOF
+2024-12-07T21:26:53+03:00> Client disconnected (38540da3-d7ad-4ed3-920c-420e78c4a2cb)
+2024-12-07T21:27:04+03:00> Client connected (607e0088-f616-404d-8012-30c81344fca3)
+2024-12-07T21:27:04+03:00> [607e0088-f616-404d-8012-30c81344fca3]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:27:05+03:00> Client connected (f295e4fc-f49d-4275-a0aa-6dc9527ddd0f)
+2024-12-07T21:27:05+03:00> [f295e4fc-f49d-4275-a0aa-6dc9527ddd0f]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:27:31+03:00> error reading from client: EOF
+2024-12-07T21:27:31+03:00> Client disconnected (607e0088-f616-404d-8012-30c81344fca3)
+2024-12-07T21:27:31+03:00> error reading from client: EOF
+2024-12-07T21:27:31+03:00> Client disconnected (f295e4fc-f49d-4275-a0aa-6dc9527ddd0f)
+2024-12-07T21:27:55+03:00> Client connected (8478f9b3-15cd-4b47-ae08-2f7edd96d989)
+2024-12-07T21:27:55+03:00> [8478f9b3-15cd-4b47-ae08-2f7edd96d989]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:27:58+03:00> error reading from client: EOF
+2024-12-07T21:27:58+03:00> Client disconnected (8478f9b3-15cd-4b47-ae08-2f7edd96d989)
+2024-12-07T21:27:59+03:00> Client connected (d997b3d8-62fb-4df2-8300-08b67be2dcc9)
+2024-12-07T21:27:59+03:00> [d997b3d8-62fb-4df2-8300-08b67be2dcc9]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:28:04+03:00> error reading from client: EOF
+2024-12-07T21:28:04+03:00> Client disconnected (d997b3d8-62fb-4df2-8300-08b67be2dcc9)
+2024-12-07T21:28:11+03:00> Client connected (bdd7679b-806c-4746-b4ee-fd0b65269316)
+2024-12-07T21:28:11+03:00> [bdd7679b-806c-4746-b4ee-fd0b65269316]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:28:11+03:00> error reading from client: EOF
+2024-12-07T21:28:11+03:00> Client disconnected (bdd7679b-806c-4746-b4ee-fd0b65269316)
+2024-12-07T21:28:13+03:00> Client connected (921f623b-27d3-49da-9ee9-753c2ed3a78d)
+2024-12-07T21:28:13+03:00> [921f623b-27d3-49da-9ee9-753c2ed3a78d]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:28:15+03:00> error reading from client: EOF
+2024-12-07T21:28:15+03:00> Client disconnected (921f623b-27d3-49da-9ee9-753c2ed3a78d)
+2024-12-07T21:30:41+03:00> Client connected (ff11c668-20b0-4df8-a974-28763b556dd9)
+2024-12-07T21:30:41+03:00> [ff11c668-20b0-4df8-a974-28763b556dd9]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:30:45+03:00> error reading from client: EOF
+2024-12-07T21:30:45+03:00> Client disconnected (ff11c668-20b0-4df8-a974-28763b556dd9)
+2024-12-07T21:38:30+03:00> Client connected (2492f123-7d34-47e7-bfdf-7594c2b46801)
+2024-12-07T21:38:30+03:00> [2492f123-7d34-47e7-bfdf-7594c2b46801]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:38:34+03:00> error reading from client: EOF
+2024-12-07T21:38:34+03:00> Client disconnected (2492f123-7d34-47e7-bfdf-7594c2b46801)
+2024-12-07T21:39:04+03:00> Client connected (94084d8f-3d16-4097-aa79-fe64d1fc6bb3)
+2024-12-07T21:39:04+03:00> [94084d8f-3d16-4097-aa79-fe64d1fc6bb3]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:39:07+03:00> error reading from client: EOF
+2024-12-07T21:39:07+03:00> Client disconnected (94084d8f-3d16-4097-aa79-fe64d1fc6bb3)
+2024-12-07T21:40:47+03:00> Client connected (1c545c4f-913f-49da-856e-7dfae38d7e83)
+2024-12-07T21:40:47+03:00> [1c545c4f-913f-49da-856e-7dfae38d7e83]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:40:50+03:00> error reading from client: EOF
+2024-12-07T21:40:50+03:00> Client disconnected (1c545c4f-913f-49da-856e-7dfae38d7e83)
+2024-12-07T21:41:01+03:00> Client connected (c4ab6566-00c0-4454-9bb8-1fdb18ffe1fc)
+2024-12-07T21:41:01+03:00> [c4ab6566-00c0-4454-9bb8-1fdb18ffe1fc]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:41:07+03:00> error reading from client: EOF
+2024-12-07T21:41:07+03:00> Client disconnected (c4ab6566-00c0-4454-9bb8-1fdb18ffe1fc)
+2024-12-07T21:43:13+03:00> Client connected (0c66ec9f-fb39-4645-aea9-bb290586d46e)
+2024-12-07T21:43:13+03:00> [0c66ec9f-fb39-4645-aea9-bb290586d46e]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:43:17+03:00> error reading from client: EOF
+2024-12-07T21:43:17+03:00> Client disconnected (0c66ec9f-fb39-4645-aea9-bb290586d46e)
+2024-12-07T21:50:50+03:00> Client connected (986e4552-9b32-4924-9872-0b15c49aea03)
+2024-12-07T21:50:50+03:00> [986e4552-9b32-4924-9872-0b15c49aea03]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:50:53+03:00> error reading from client: EOF
+2024-12-07T21:50:53+03:00> Client disconnected (986e4552-9b32-4924-9872-0b15c49aea03)
+2024-12-07T21:50:59+03:00> Client connected (2c2f5259-d1ce-4ce2-8e69-068c14f8dc13)
+2024-12-07T21:50:59+03:00> [2c2f5259-d1ce-4ce2-8e69-068c14f8dc13]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:51:01+03:00> error reading from client: EOF
+2024-12-07T21:51:01+03:00> Client disconnected (2c2f5259-d1ce-4ce2-8e69-068c14f8dc13)
+2024-12-07T21:52:03+03:00> Collector shutdown
+2024-12-07T21:52:03+03:00> Collector started
+2024-12-07T21:52:08+03:00> Client connected (80b432bf-b17e-49bd-869a-3a81950891df)
+2024-12-07T21:52:08+03:00> [80b432bf-b17e-49bd-869a-3a81950891df]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:52:10+03:00> error reading from client: EOF
+2024-12-07T21:52:10+03:00> Client disconnected (80b432bf-b17e-49bd-869a-3a81950891df)
+2024-12-07T21:52:13+03:00> Client connected (7cd13807-9dbf-4c2d-addb-68ee07ede75a)
+2024-12-07T21:52:13+03:00> [7cd13807-9dbf-4c2d-addb-68ee07ede75a]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:52:15+03:00> error reading from client: EOF
+2024-12-07T21:52:15+03:00> Client disconnected (7cd13807-9dbf-4c2d-addb-68ee07ede75a)
+2024-12-07T21:58:30+03:00> Client connected (6921ea23-48e0-46f9-aa89-2f5631b56e83)
+2024-12-07T21:58:30+03:00> [6921ea23-48e0-46f9-aa89-2f5631b56e83]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T21:58:42+03:00> Client connected (65e427e5-050e-4457-b020-4b3a4b4505e5)
+2024-12-07T21:58:42+03:00> [65e427e5-050e-4457-b020-4b3a4b4505e5]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T22:00:15+03:00> error reading from client: EOF
+2024-12-07T22:00:15+03:00> Client disconnected (65e427e5-050e-4457-b020-4b3a4b4505e5)
+2024-12-07T22:00:20+03:00> error reading from client: EOF
+2024-12-07T22:00:20+03:00> Client disconnected (6921ea23-48e0-46f9-aa89-2f5631b56e83)
+2024-12-07T22:45:41+03:00> Client connected (072e36d3-94cc-4a13-8fb2-b9c1a8b33d79)
+2024-12-07T22:45:41+03:00> [072e36d3-94cc-4a13-8fb2-b9c1a8b33d79]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T22:45:43+03:00> error reading from client: EOF
+2024-12-07T22:45:43+03:00> Client disconnected (072e36d3-94cc-4a13-8fb2-b9c1a8b33d79)
+2024-12-07T22:45:57+03:00> Collector shutdown
+2024-12-07T22:45:57+03:00> Collector started
+2024-12-07T22:52:11+03:00> Collector shutdown
+2024-12-07T23:04:32+03:00> Collector started
+2024-12-07T23:30:25+03:00> Client connected (e3a30895-40e2-46f7-b17d-ce92d5abe340)
+2024-12-07T23:30:25+03:00> [e3a30895-40e2-46f7-b17d-ce92d5abe340]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:30:58+03:00> error reading from client: EOF
+2024-12-07T23:30:58+03:00> Client disconnected (e3a30895-40e2-46f7-b17d-ce92d5abe340)
+2024-12-07T23:30:59+03:00> Client connected (15befaad-1c73-4657-b456-c6700031bc2c)
+2024-12-07T23:30:59+03:00> [15befaad-1c73-4657-b456-c6700031bc2c]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:31:02+03:00> error reading from client: EOF
+2024-12-07T23:31:02+03:00> Client disconnected (15befaad-1c73-4657-b456-c6700031bc2c)
+2024-12-07T23:31:05+03:00> Client connected (04b703d1-13d2-4656-ab9e-03fd82384b95)
+2024-12-07T23:31:05+03:00> [04b703d1-13d2-4656-ab9e-03fd82384b95]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T23:31:08+03:00> error reading from client: EOF
+2024-12-07T23:31:08+03:00> Client disconnected (04b703d1-13d2-4656-ab9e-03fd82384b95)
+2024-12-07T23:31:17+03:00> Client connected (f3e2b135-8790-49ec-9617-f7a3b73a7b07)
+2024-12-07T23:31:17+03:00> [f3e2b135-8790-49ec-9617-f7a3b73a7b07]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:31:20+03:00> error reading from client: EOF
+2024-12-07T23:31:20+03:00> Client disconnected (f3e2b135-8790-49ec-9617-f7a3b73a7b07)
+2024-12-07T23:31:32+03:00> Client connected (5fa2f987-48cf-4a50-b181-403d5e6db922)
+2024-12-07T23:31:32+03:00> [5fa2f987-48cf-4a50-b181-403d5e6db922]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:31:39+03:00> error reading from client: EOF
+2024-12-07T23:31:39+03:00> Client disconnected (5fa2f987-48cf-4a50-b181-403d5e6db922)
+2024-12-07T23:31:43+03:00> Client connected (2b02db3c-7f77-4879-a0b9-3a6e0dad2327)
+2024-12-07T23:31:43+03:00> [2b02db3c-7f77-4879-a0b9-3a6e0dad2327]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:32:52+03:00> error reading from client: EOF
+2024-12-07T23:32:52+03:00> Client disconnected (2b02db3c-7f77-4879-a0b9-3a6e0dad2327)
+2024-12-07T23:34:43+03:00> Client connected (d894a694-5f95-4e72-9c4d-10356f02a785)
+2024-12-07T23:34:43+03:00> [d894a694-5f95-4e72-9c4d-10356f02a785]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:34:46+03:00> error reading from client: EOF
+2024-12-07T23:34:46+03:00> Client disconnected (d894a694-5f95-4e72-9c4d-10356f02a785)
+2024-12-07T23:37:30+03:00> Client connected (a83c5af1-1072-4a8a-a33c-8feec417047c)
+2024-12-07T23:37:30+03:00> [a83c5af1-1072-4a8a-a33c-8feec417047c]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:37:55+03:00> error reading from client: EOF
+2024-12-07T23:37:55+03:00> Client disconnected (a83c5af1-1072-4a8a-a33c-8feec417047c)
+2024-12-07T23:42:06+03:00> Client connected (486211f4-b50a-4868-8270-ed1a44483fe6)
+2024-12-07T23:42:06+03:00> [486211f4-b50a-4868-8270-ed1a44483fe6]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:42:13+03:00> error reading from client: EOF
+2024-12-07T23:42:13+03:00> Client disconnected (486211f4-b50a-4868-8270-ed1a44483fe6)
+2024-12-07T23:43:39+03:00> Client connected (daa6e116-b193-49ad-bd3b-ea25043ed85e)
+2024-12-07T23:43:39+03:00> [daa6e116-b193-49ad-bd3b-ea25043ed85e]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:43:41+03:00> [daa6e116-b193-49ad-bd3b-ea25043ed85e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:43:44+03:00> [daa6e116-b193-49ad-bd3b-ea25043ed85e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:43:49+03:00> [daa6e116-b193-49ad-bd3b-ea25043ed85e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:43:50+03:00> [daa6e116-b193-49ad-bd3b-ea25043ed85e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:43:51+03:00> [daa6e116-b193-49ad-bd3b-ea25043ed85e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:43:52+03:00> [daa6e116-b193-49ad-bd3b-ea25043ed85e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:44:35+03:00> [daa6e116-b193-49ad-bd3b-ea25043ed85e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:44:36+03:00> error reading from client: EOF
+2024-12-07T23:44:36+03:00> Client disconnected (daa6e116-b193-49ad-bd3b-ea25043ed85e)
+2024-12-07T23:44:38+03:00> Client connected (a661f8d9-0312-4520-a265-2275204c620f)
+2024-12-07T23:44:38+03:00> [a661f8d9-0312-4520-a265-2275204c620f]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-07T23:44:42+03:00> error reading from client: EOF
+2024-12-07T23:44:42+03:00> Client disconnected (a661f8d9-0312-4520-a265-2275204c620f)
+2024-12-07T23:44:49+03:00> Client connected (4d39e2e6-e535-4921-bdfb-e09269447572)
+2024-12-07T23:44:49+03:00> [4d39e2e6-e535-4921-bdfb-e09269447572]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:44:50+03:00> [4d39e2e6-e535-4921-bdfb-e09269447572]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:44:53+03:00> [4d39e2e6-e535-4921-bdfb-e09269447572]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:44:54+03:00> [4d39e2e6-e535-4921-bdfb-e09269447572]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:44:55+03:00> [4d39e2e6-e535-4921-bdfb-e09269447572]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:44:56+03:00> error reading from client: EOF
+2024-12-07T23:44:56+03:00> Client disconnected (4d39e2e6-e535-4921-bdfb-e09269447572)
+2024-12-07T23:45:48+03:00> Client connected (1994b722-e48a-413b-9960-7835eaeeca51)
+2024-12-07T23:45:48+03:00> [1994b722-e48a-413b-9960-7835eaeeca51]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:45:50+03:00> [1994b722-e48a-413b-9960-7835eaeeca51]: {"Command":"get_process","UpdateMethod":""}
+2024-12-07T23:46:08+03:00> error reading from client: EOF
+2024-12-07T23:46:08+03:00> Client disconnected (1994b722-e48a-413b-9960-7835eaeeca51)
+2024-12-07T23:47:57+03:00> Client connected (12449f17-744e-4fe6-bb99-7bd6891b0f30)
+2024-12-07T23:47:57+03:00> [12449f17-744e-4fe6-bb99-7bd6891b0f30]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:48:00+03:00> [12449f17-744e-4fe6-bb99-7bd6891b0f30]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:48:24+03:00> Client connected (5906465e-a085-4294-8df4-8469b7caf3bd)
+2024-12-07T23:48:24+03:00> [5906465e-a085-4294-8df4-8469b7caf3bd]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:48:27+03:00> [5906465e-a085-4294-8df4-8469b7caf3bd]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:50:39+03:00> Client connected (7f0067a8-b9ce-4239-9c69-eb8ed304ef7f)
+2024-12-07T23:50:39+03:00> [7f0067a8-b9ce-4239-9c69-eb8ed304ef7f]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:50:41+03:00> [7f0067a8-b9ce-4239-9c69-eb8ed304ef7f]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:51:04+03:00> Client connected (d6bdb9a4-fdcc-4eab-9951-e4e1a6bd4b85)
+2024-12-07T23:51:04+03:00> [d6bdb9a4-fdcc-4eab-9951-e4e1a6bd4b85]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:51:06+03:00> [d6bdb9a4-fdcc-4eab-9951-e4e1a6bd4b85]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:51:08+03:00> [d6bdb9a4-fdcc-4eab-9951-e4e1a6bd4b85]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:51:10+03:00> [d6bdb9a4-fdcc-4eab-9951-e4e1a6bd4b85]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:51:12+03:00> [d6bdb9a4-fdcc-4eab-9951-e4e1a6bd4b85]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:51:16+03:00> [d6bdb9a4-fdcc-4eab-9951-e4e1a6bd4b85]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:54:09+03:00> Client connected (cb61a23d-1966-44a9-8d14-51be245e456e)
+2024-12-07T23:54:09+03:00> [cb61a23d-1966-44a9-8d14-51be245e456e]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:54:11+03:00> [cb61a23d-1966-44a9-8d14-51be245e456e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:54:14+03:00> [cb61a23d-1966-44a9-8d14-51be245e456e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:54:16+03:00> [cb61a23d-1966-44a9-8d14-51be245e456e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:54:20+03:00> [cb61a23d-1966-44a9-8d14-51be245e456e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:54:21+03:00> [cb61a23d-1966-44a9-8d14-51be245e456e]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:07+03:00> error reading from client: EOF
+2024-12-07T23:55:07+03:00> Client disconnected (12449f17-744e-4fe6-bb99-7bd6891b0f30)
+2024-12-07T23:55:07+03:00> error reading from client: EOF
+2024-12-07T23:55:07+03:00> Client disconnected (5906465e-a085-4294-8df4-8469b7caf3bd)
+2024-12-07T23:55:07+03:00> error reading from client: EOF
+2024-12-07T23:55:07+03:00> Client disconnected (7f0067a8-b9ce-4239-9c69-eb8ed304ef7f)
+2024-12-07T23:55:07+03:00> error reading from client: EOF
+2024-12-07T23:55:07+03:00> Client disconnected (d6bdb9a4-fdcc-4eab-9951-e4e1a6bd4b85)
+2024-12-07T23:55:07+03:00> error reading from client: EOF
+2024-12-07T23:55:07+03:00> Client disconnected (cb61a23d-1966-44a9-8d14-51be245e456e)
+2024-12-07T23:55:13+03:00> Client connected (097c6042-c4ba-4cc0-b91b-fb56ee79f9b8)
+2024-12-07T23:55:13+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:55:15+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:16+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:17+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:18+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:22+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:25+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:26+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:27+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:55:28+03:00> [097c6042-c4ba-4cc0-b91b-fb56ee79f9b8]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:18+03:00> Client connected (c6c15f45-036f-4a43-8ef2-5f47b5b3aec5)
+2024-12-07T23:57:18+03:00> [c6c15f45-036f-4a43-8ef2-5f47b5b3aec5]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:57:19+03:00> [c6c15f45-036f-4a43-8ef2-5f47b5b3aec5]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:20+03:00> [c6c15f45-036f-4a43-8ef2-5f47b5b3aec5]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:22+03:00> [c6c15f45-036f-4a43-8ef2-5f47b5b3aec5]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:22+03:00> [c6c15f45-036f-4a43-8ef2-5f47b5b3aec5]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:23+03:00> [c6c15f45-036f-4a43-8ef2-5f47b5b3aec5]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:39+03:00> error reading from client: EOF
+2024-12-07T23:57:39+03:00> error reading from client: EOF
+2024-12-07T23:57:39+03:00> Client disconnected (097c6042-c4ba-4cc0-b91b-fb56ee79f9b8)
+2024-12-07T23:57:39+03:00> Client disconnected (c6c15f45-036f-4a43-8ef2-5f47b5b3aec5)
+2024-12-07T23:57:44+03:00> Client connected (dc34e3f4-0275-4e30-8f39-b59b5b501253)
+2024-12-07T23:57:44+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-07T23:57:46+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:48+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:51+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:53+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:56+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:57:58+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:58:00+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-07T23:58:00+03:00> [dc34e3f4-0275-4e30-8f39-b59b5b501253]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:01:20+03:00> error reading from client: EOF
+2024-12-08T00:01:20+03:00> Client disconnected (dc34e3f4-0275-4e30-8f39-b59b5b501253)
+2024-12-08T00:02:41+03:00> Collector shutdown
+2024-12-08T00:07:44+03:00> Collector started
+2024-12-08T00:09:25+03:00> Client connected (6fe3d481-d9fb-4ba4-bdcd-40aae0d7a85f)
+2024-12-08T00:09:25+03:00> [6fe3d481-d9fb-4ba4-bdcd-40aae0d7a85f]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:09:27+03:00> [6fe3d481-d9fb-4ba4-bdcd-40aae0d7a85f]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:09:29+03:00> [6fe3d481-d9fb-4ba4-bdcd-40aae0d7a85f]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:09:30+03:00> [6fe3d481-d9fb-4ba4-bdcd-40aae0d7a85f]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:09:32+03:00> error reading from client: EOF
+2024-12-08T00:09:32+03:00> Client disconnected (6fe3d481-d9fb-4ba4-bdcd-40aae0d7a85f)
+2024-12-08T00:11:32+03:00> Client connected (1b3c5916-089f-4787-b2ad-94f6c5061198)
+2024-12-08T00:11:32+03:00> [1b3c5916-089f-4787-b2ad-94f6c5061198]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:11:34+03:00> [1b3c5916-089f-4787-b2ad-94f6c5061198]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:11:35+03:00> [1b3c5916-089f-4787-b2ad-94f6c5061198]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:11:36+03:00> [1b3c5916-089f-4787-b2ad-94f6c5061198]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:13:33+03:00> error reading from client: EOF
+2024-12-08T00:13:33+03:00> Client disconnected (1b3c5916-089f-4787-b2ad-94f6c5061198)
+2024-12-08T00:13:43+03:00> Client connected (9eac80dd-5c7a-4863-bdf2-1515abe91f44)
+2024-12-08T00:13:43+03:00> [9eac80dd-5c7a-4863-bdf2-1515abe91f44]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:13:47+03:00> [9eac80dd-5c7a-4863-bdf2-1515abe91f44]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:13:49+03:00> [9eac80dd-5c7a-4863-bdf2-1515abe91f44]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:13:50+03:00> [9eac80dd-5c7a-4863-bdf2-1515abe91f44]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:13:51+03:00> [9eac80dd-5c7a-4863-bdf2-1515abe91f44]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:13:54+03:00> [9eac80dd-5c7a-4863-bdf2-1515abe91f44]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:14:34+03:00> Client connected (14ab8465-f3e1-4db0-9eca-80833a9864e1)
+2024-12-08T00:14:34+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:14:35+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:14:37+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:14:39+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:14:39+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:14:52+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:14:53+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:17:56+03:00> Client connected (80763d97-be89-4490-952b-b99e4605cd09)
+2024-12-08T00:17:56+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:18:04+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:07+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:09+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:10+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:12+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:13+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:13+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:13+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:14+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:14+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:16+03:00> [80763d97-be89-4490-952b-b99e4605cd09]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:18:19+03:00> error reading from client: EOF
+2024-12-08T00:18:19+03:00> Client disconnected (80763d97-be89-4490-952b-b99e4605cd09)
+2024-12-08T00:18:20+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:21+03:00> [14ab8465-f3e1-4db0-9eca-80833a9864e1]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:22+03:00> error reading from client: EOF
+2024-12-08T00:18:22+03:00> Client disconnected (14ab8465-f3e1-4db0-9eca-80833a9864e1)
+2024-12-08T00:18:26+03:00> Client connected (ab6941c2-10ad-4ab3-a1b1-f3bb306241c0)
+2024-12-08T00:18:26+03:00> [ab6941c2-10ad-4ab3-a1b1-f3bb306241c0]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:18:27+03:00> [ab6941c2-10ad-4ab3-a1b1-f3bb306241c0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:27+03:00> [ab6941c2-10ad-4ab3-a1b1-f3bb306241c0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:28+03:00> [ab6941c2-10ad-4ab3-a1b1-f3bb306241c0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:28+03:00> [ab6941c2-10ad-4ab3-a1b1-f3bb306241c0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:28+03:00> [ab6941c2-10ad-4ab3-a1b1-f3bb306241c0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:29+03:00> error reading from client: EOF
+2024-12-08T00:18:29+03:00> Client disconnected (ab6941c2-10ad-4ab3-a1b1-f3bb306241c0)
+2024-12-08T00:18:31+03:00> Client connected (c5bd212f-d788-48f1-adc4-8f2607203b89)
+2024-12-08T00:18:31+03:00> [c5bd212f-d788-48f1-adc4-8f2607203b89]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:18:31+03:00> [c5bd212f-d788-48f1-adc4-8f2607203b89]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:32+03:00> [c5bd212f-d788-48f1-adc4-8f2607203b89]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:32+03:00> [c5bd212f-d788-48f1-adc4-8f2607203b89]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:32+03:00> [c5bd212f-d788-48f1-adc4-8f2607203b89]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:32+03:00> [c5bd212f-d788-48f1-adc4-8f2607203b89]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:33+03:00> [c5bd212f-d788-48f1-adc4-8f2607203b89]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:18:34+03:00> [c5bd212f-d788-48f1-adc4-8f2607203b89]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:18+03:00> Client connected (015018b5-bc2e-4b09-b4a2-bad6aedd26f0)
+2024-12-08T00:19:18+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:19:20+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:22+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:22+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:25+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:27+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:29+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:29+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:32+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:34+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:36+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:19:50+03:00> [015018b5-bc2e-4b09-b4a2-bad6aedd26f0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:22:18+03:00> Client connected (f1b6b55d-6d60-4f5a-9dd6-26fbfd7901cf)
+2024-12-08T00:22:18+03:00> [f1b6b55d-6d60-4f5a-9dd6-26fbfd7901cf]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:22:19+03:00> Client connected (e834c932-25ec-46be-83b4-28df726b0e4e)
+2024-12-08T00:22:19+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:22:22+03:00> [f1b6b55d-6d60-4f5a-9dd6-26fbfd7901cf]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:22:24+03:00> [f1b6b55d-6d60-4f5a-9dd6-26fbfd7901cf]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:22:25+03:00> [f1b6b55d-6d60-4f5a-9dd6-26fbfd7901cf]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T00:22:26+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:22:27+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:22:28+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:22:29+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:22:30+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:22:31+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:22:31+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:22:32+03:00> [e834c932-25ec-46be-83b4-28df726b0e4e]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:22:33+03:00> error reading from client: EOF
+2024-12-08T00:22:33+03:00> Client disconnected (e834c932-25ec-46be-83b4-28df726b0e4e)
+2024-12-08T00:22:34+03:00> error reading from client: EOF
+2024-12-08T00:22:34+03:00> Client disconnected (f1b6b55d-6d60-4f5a-9dd6-26fbfd7901cf)
+2024-12-08T00:23:10+03:00> Client connected (fe17b4cd-a9f6-48fe-8568-d7c7203a1cc5)
+2024-12-08T00:23:10+03:00> [fe17b4cd-a9f6-48fe-8568-d7c7203a1cc5]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:23:11+03:00> [fe17b4cd-a9f6-48fe-8568-d7c7203a1cc5]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:23:12+03:00> [fe17b4cd-a9f6-48fe-8568-d7c7203a1cc5]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:23:13+03:00> [fe17b4cd-a9f6-48fe-8568-d7c7203a1cc5]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:23:14+03:00> [fe17b4cd-a9f6-48fe-8568-d7c7203a1cc5]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:23:15+03:00> [fe17b4cd-a9f6-48fe-8568-d7c7203a1cc5]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:23:17+03:00> error reading from client: EOF
+2024-12-08T00:23:17+03:00> Client disconnected (fe17b4cd-a9f6-48fe-8568-d7c7203a1cc5)
+2024-12-08T00:43:45+03:00> Client connected (f0c4261d-ea74-4635-b806-49b95dc0e4f9)
+2024-12-08T00:43:45+03:00> [f0c4261d-ea74-4635-b806-49b95dc0e4f9]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:43:46+03:00> [f0c4261d-ea74-4635-b806-49b95dc0e4f9]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:43:47+03:00> [f0c4261d-ea74-4635-b806-49b95dc0e4f9]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:43:48+03:00> error reading from client: EOF
+2024-12-08T00:43:48+03:00> Client disconnected (f0c4261d-ea74-4635-b806-49b95dc0e4f9)
+2024-12-08T00:46:09+03:00> Client connected (00938421-0a53-4033-9383-9138aa232859)
+2024-12-08T00:46:09+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:46:17+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:20+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:21+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:22+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:22+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:23+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:23+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:24+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:24+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:24+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:24+03:00> [00938421-0a53-4033-9383-9138aa232859]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T00:46:26+03:00> error reading from client: EOF
+2024-12-08T00:46:26+03:00> Client disconnected (00938421-0a53-4033-9383-9138aa232859)
+2024-12-08T00:58:12+03:00> Client connected (c43267a2-1c8e-49d8-8034-fd9bbcf76896)
+2024-12-08T00:58:12+03:00> [c43267a2-1c8e-49d8-8034-fd9bbcf76896]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-08T00:58:15+03:00> error reading from client: EOF
+2024-12-08T00:58:15+03:00> Client disconnected (c43267a2-1c8e-49d8-8034-fd9bbcf76896)
+2024-12-08T00:58:18+03:00> Client connected (fe215caa-cf08-4ef7-abb1-6ffc4e855ed5)
+2024-12-08T00:58:18+03:00> [fe215caa-cf08-4ef7-abb1-6ffc4e855ed5]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T00:58:21+03:00> error reading from client: EOF
+2024-12-08T00:58:21+03:00> Client disconnected (fe215caa-cf08-4ef7-abb1-6ffc4e855ed5)
+2024-12-08T01:11:01+03:00> Client connected (bff65302-f748-4c33-b26f-f02886355694)
+2024-12-08T01:11:01+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:11:03+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:05+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:06+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:10+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:11+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:11+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:12+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:12+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:13+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:11:13+03:00> [bff65302-f748-4c33-b26f-f02886355694]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:13:27+03:00> Client connected (eb5df68a-5b9c-40df-b7c4-ec705c4b5f19)
+2024-12-08T01:13:27+03:00> [eb5df68a-5b9c-40df-b7c4-ec705c4b5f19]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:13:30+03:00> [eb5df68a-5b9c-40df-b7c4-ec705c4b5f19]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:14:40+03:00> Client connected (82374d25-0a28-4584-a125-91fe1a57cd55)
+2024-12-08T01:14:40+03:00> [82374d25-0a28-4584-a125-91fe1a57cd55]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:14:42+03:00> [82374d25-0a28-4584-a125-91fe1a57cd55]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:14:43+03:00> [82374d25-0a28-4584-a125-91fe1a57cd55]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:14:45+03:00> [82374d25-0a28-4584-a125-91fe1a57cd55]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:14:45+03:00> [82374d25-0a28-4584-a125-91fe1a57cd55]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:14:46+03:00> [82374d25-0a28-4584-a125-91fe1a57cd55]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:17:43+03:00> error reading from client: EOF
+2024-12-08T01:17:43+03:00> Client disconnected (82374d25-0a28-4584-a125-91fe1a57cd55)
+2024-12-08T01:17:44+03:00> Client connected (b43bb1ea-8981-41fd-bfa0-60298399fafe)
+2024-12-08T01:17:44+03:00> [b43bb1ea-8981-41fd-bfa0-60298399fafe]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:17:44+03:00> [b43bb1ea-8981-41fd-bfa0-60298399fafe]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:17:45+03:00> error reading from client: EOF
+2024-12-08T01:17:45+03:00> Client disconnected (b43bb1ea-8981-41fd-bfa0-60298399fafe)
+2024-12-08T01:18:58+03:00> Client connected (853c7463-b483-41e4-ac7d-464a64333f63)
+2024-12-08T01:18:58+03:00> [853c7463-b483-41e4-ac7d-464a64333f63]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:19:00+03:00> [853c7463-b483-41e4-ac7d-464a64333f63]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:19:02+03:00> [853c7463-b483-41e4-ac7d-464a64333f63]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:19:08+03:00> error reading from client: EOF
+2024-12-08T01:19:08+03:00> Client disconnected (853c7463-b483-41e4-ac7d-464a64333f63)
+2024-12-08T01:22:42+03:00> Client connected (dad3a518-6149-46bb-8471-0c49d2268357)
+2024-12-08T01:22:42+03:00> [dad3a518-6149-46bb-8471-0c49d2268357]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:22:46+03:00> [dad3a518-6149-46bb-8471-0c49d2268357]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:22:51+03:00> [dad3a518-6149-46bb-8471-0c49d2268357]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:23:01+03:00> error reading from client: EOF
+2024-12-08T01:23:01+03:00> Client disconnected (dad3a518-6149-46bb-8471-0c49d2268357)
+2024-12-08T01:23:42+03:00> Client connected (980d9881-4104-43b3-85b6-07a00062715b)
+2024-12-08T01:23:42+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:23:43+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:23:45+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:23:45+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:23:46+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:23:47+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:23:48+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:24:43+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:24:43+03:00> [980d9881-4104-43b3-85b6-07a00062715b]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:24:57+03:00> Client connected (4074a458-3a8b-424e-a64d-3a4973609339)
+2024-12-08T01:24:57+03:00> [4074a458-3a8b-424e-a64d-3a4973609339]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:24:58+03:00> [4074a458-3a8b-424e-a64d-3a4973609339]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:25:00+03:00> [4074a458-3a8b-424e-a64d-3a4973609339]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:25:01+03:00> [4074a458-3a8b-424e-a64d-3a4973609339]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:25:02+03:00> [4074a458-3a8b-424e-a64d-3a4973609339]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:25:03+03:00> [4074a458-3a8b-424e-a64d-3a4973609339]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:25:57+03:00> Client connected (6456bc6f-de91-4abf-b4fc-2932157aeb79)
+2024-12-08T01:25:57+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:25:58+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:03+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:04+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:05+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:19+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:19+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:20+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:22+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:22+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:25+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:27+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:26:29+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:28:29+03:00> [6456bc6f-de91-4abf-b4fc-2932157aeb79]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:47+03:00> Client connected (b29a76af-15de-4e9b-b340-da5ef7a8e1a1)
+2024-12-08T01:30:47+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:30:51+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:53+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:54+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:55+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:56+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:57+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:57+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:58+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:30:59+03:00> [b29a76af-15de-4e9b-b340-da5ef7a8e1a1]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:04+03:00> Client connected (a48e0d6a-1656-4bf3-a24b-b3f467369d69)
+2024-12-08T01:41:04+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:41:06+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:08+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:08+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:09+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:09+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:10+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:10+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:10+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:10+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:10+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:11+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:12+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:14+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:19+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:20+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:21+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:23+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:41:24+03:00> [a48e0d6a-1656-4bf3-a24b-b3f467369d69]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:42:31+03:00> error reading from client: EOF
+2024-12-08T01:42:31+03:00> Client disconnected (a48e0d6a-1656-4bf3-a24b-b3f467369d69)
+2024-12-08T01:43:01+03:00> Client connected (48895e8f-77ae-443d-be77-855d55d567b2)
+2024-12-08T01:43:01+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:43:02+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:03+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:04+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:04+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:05+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:05+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:05+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:05+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:06+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:06+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:07+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:07+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:07+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:07+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:11+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:20+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:23+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:26+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:30+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:35+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:43:43+03:00> [48895e8f-77ae-443d-be77-855d55d567b2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:47:48+03:00> Client connected (a4581cd8-9660-458f-9a49-50eca0e15d27)
+2024-12-08T01:47:48+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:48:09+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:11+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:12+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:12+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:13+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:13+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:13+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:14+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:14+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:15+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:15+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:15+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:15+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:19+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:20+03:00> [a4581cd8-9660-458f-9a49-50eca0e15d27]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:21+03:00> error reading from client: EOF
+2024-12-08T01:48:21+03:00> Client disconnected (a4581cd8-9660-458f-9a49-50eca0e15d27)
+2024-12-08T01:48:37+03:00> Client connected (37337bce-876e-4d88-ab9a-92b5c0cba52a)
+2024-12-08T01:48:37+03:00> [37337bce-876e-4d88-ab9a-92b5c0cba52a]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:48:38+03:00> Client connected (44f9c162-1a62-4255-b94d-9f20da152806)
+2024-12-08T01:48:38+03:00> [44f9c162-1a62-4255-b94d-9f20da152806]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:48:40+03:00> [44f9c162-1a62-4255-b94d-9f20da152806]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:41+03:00> [44f9c162-1a62-4255-b94d-9f20da152806]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:42+03:00> [37337bce-876e-4d88-ab9a-92b5c0cba52a]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:48:43+03:00> [37337bce-876e-4d88-ab9a-92b5c0cba52a]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:48:44+03:00> [37337bce-876e-4d88-ab9a-92b5c0cba52a]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:48:44+03:00> [37337bce-876e-4d88-ab9a-92b5c0cba52a]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:48:45+03:00> [37337bce-876e-4d88-ab9a-92b5c0cba52a]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:48:45+03:00> [37337bce-876e-4d88-ab9a-92b5c0cba52a]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:48:48+03:00> [44f9c162-1a62-4255-b94d-9f20da152806]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:49+03:00> [44f9c162-1a62-4255-b94d-9f20da152806]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T01:48:52+03:00> error reading from client: EOF
+2024-12-08T01:48:52+03:00> Client disconnected (44f9c162-1a62-4255-b94d-9f20da152806)
+2024-12-08T01:48:53+03:00> error reading from client: EOF
+2024-12-08T01:48:53+03:00> Client disconnected (37337bce-876e-4d88-ab9a-92b5c0cba52a)
+2024-12-08T01:55:10+03:00> Client connected (360aa0cc-d947-4faa-b6a6-b82b0c76f099)
+2024-12-08T01:55:10+03:00> [360aa0cc-d947-4faa-b6a6-b82b0c76f099]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:55:12+03:00> [360aa0cc-d947-4faa-b6a6-b82b0c76f099]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:55:15+03:00> [360aa0cc-d947-4faa-b6a6-b82b0c76f099]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:59:49+03:00> Client connected (b99ee548-2df8-41be-a4be-84634915cf6d)
+2024-12-08T01:59:49+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T01:59:50+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:59:55+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:59:56+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:59:56+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:59:57+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T01:59:58+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T02:00:01+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T02:01:03+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T02:01:04+03:00> [b99ee548-2df8-41be-a4be-84634915cf6d]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T02:01:09+03:00> Client connected (36c5944b-8eab-44e1-b5bb-24a268df50d4)
+2024-12-08T02:01:09+03:00> [36c5944b-8eab-44e1-b5bb-24a268df50d4]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T02:01:10+03:00> [36c5944b-8eab-44e1-b5bb-24a268df50d4]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:01:11+03:00> [36c5944b-8eab-44e1-b5bb-24a268df50d4]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:01:12+03:00> error reading from client: EOF
+2024-12-08T02:01:12+03:00> Client disconnected (36c5944b-8eab-44e1-b5bb-24a268df50d4)
+2024-12-08T02:01:15+03:00> error reading from client: EOF
+2024-12-08T02:01:15+03:00> Client disconnected (b99ee548-2df8-41be-a4be-84634915cf6d)
+2024-12-08T02:31:50+03:00> Client connected (0b18557e-f7ba-4973-a9f7-cbe280fd3877)
+2024-12-08T02:31:50+03:00> [0b18557e-f7ba-4973-a9f7-cbe280fd3877]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T02:31:53+03:00> error reading from client: EOF
+2024-12-08T02:31:53+03:00> Client disconnected (0b18557e-f7ba-4973-a9f7-cbe280fd3877)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (9eac80dd-5c7a-4863-bdf2-1515abe91f44)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (b29a76af-15de-4e9b-b340-da5ef7a8e1a1)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (48895e8f-77ae-443d-be77-855d55d567b2)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (360aa0cc-d947-4faa-b6a6-b82b0c76f099)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (c5bd212f-d788-48f1-adc4-8f2607203b89)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (bff65302-f748-4c33-b26f-f02886355694)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (015018b5-bc2e-4b09-b4a2-bad6aedd26f0)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (eb5df68a-5b9c-40df-b7c4-ec705c4b5f19)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (980d9881-4104-43b3-85b6-07a00062715b)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (4074a458-3a8b-424e-a64d-3a4973609339)
+2024-12-08T02:32:03+03:00> error reading from client: EOF
+2024-12-08T02:32:03+03:00> Client disconnected (6456bc6f-de91-4abf-b4fc-2932157aeb79)
+2024-12-08T02:33:16+03:00> Client connected (821f4d83-4742-4cbc-9ef8-598710c5c1d3)
+2024-12-08T02:33:16+03:00> [821f4d83-4742-4cbc-9ef8-598710c5c1d3]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T02:33:16+03:00> [821f4d83-4742-4cbc-9ef8-598710c5c1d3]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:17+03:00> [821f4d83-4742-4cbc-9ef8-598710c5c1d3]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:18+03:00> [821f4d83-4742-4cbc-9ef8-598710c5c1d3]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:19+03:00> [821f4d83-4742-4cbc-9ef8-598710c5c1d3]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:20+03:00> [821f4d83-4742-4cbc-9ef8-598710c5c1d3]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:21+03:00> [821f4d83-4742-4cbc-9ef8-598710c5c1d3]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:22+03:00> [821f4d83-4742-4cbc-9ef8-598710c5c1d3]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:22+03:00> error reading from client: EOF
+2024-12-08T02:33:22+03:00> Client disconnected (821f4d83-4742-4cbc-9ef8-598710c5c1d3)
+2024-12-08T02:33:53+03:00> Client connected (70644a2a-fe64-4279-ab2b-3338ee410eb2)
+2024-12-08T02:33:53+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T02:33:54+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:54+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:55+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:55+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:56+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:56+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:57+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:57+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:58+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:58+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:59+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:33:59+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:34:00+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:34:00+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:34:01+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:34:01+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:34:02+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:34:02+03:00> [70644a2a-fe64-4279-ab2b-3338ee410eb2]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:34:02+03:00> error reading from client: EOF
+2024-12-08T02:34:02+03:00> Client disconnected (70644a2a-fe64-4279-ab2b-3338ee410eb2)
+2024-12-08T02:35:45+03:00> Client connected (6e0fc413-5651-4c3f-9908-70e894acea18)
+2024-12-08T02:35:45+03:00> [6e0fc413-5651-4c3f-9908-70e894acea18]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T02:35:52+03:00> error reading from client: EOF
+2024-12-08T02:35:52+03:00> Client disconnected (6e0fc413-5651-4c3f-9908-70e894acea18)
+2024-12-08T02:35:55+03:00> Client connected (37cfda00-7dfc-4ad1-ad1c-a74e70b32305)
+2024-12-08T02:35:55+03:00> [37cfda00-7dfc-4ad1-ad1c-a74e70b32305]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T02:35:59+03:00> error reading from client: EOF
+2024-12-08T02:35:59+03:00> Client disconnected (37cfda00-7dfc-4ad1-ad1c-a74e70b32305)
+2024-12-08T02:36:30+03:00> Client connected (e6b12d2b-fd81-483b-9d5d-520bbceb6804)
+2024-12-08T02:36:30+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T02:36:30+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:36:31+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:36:32+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:36:33+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:36:34+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:36:35+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:36:36+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:36:37+03:00> [e6b12d2b-fd81-483b-9d5d-520bbceb6804]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:36:37+03:00> error reading from client: EOF
+2024-12-08T02:36:37+03:00> Client disconnected (e6b12d2b-fd81-483b-9d5d-520bbceb6804)
+2024-12-08T02:44:33+03:00> Client connected (16779ad1-72b9-464a-bf6a-05c3bc7ddf10)
+2024-12-08T02:44:33+03:00> [16779ad1-72b9-464a-bf6a-05c3bc7ddf10]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T02:44:33+03:00> [16779ad1-72b9-464a-bf6a-05c3bc7ddf10]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:44:34+03:00> [16779ad1-72b9-464a-bf6a-05c3bc7ddf10]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:44:35+03:00> [16779ad1-72b9-464a-bf6a-05c3bc7ddf10]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:44:35+03:00> error reading from client: EOF
+2024-12-08T02:44:35+03:00> Client disconnected (16779ad1-72b9-464a-bf6a-05c3bc7ddf10)
+2024-12-08T02:49:58+03:00> Client connected (e10b0b38-fce7-4c49-8ee6-0d4cd1aaee3b)
+2024-12-08T02:49:58+03:00> [e10b0b38-fce7-4c49-8ee6-0d4cd1aaee3b]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T02:49:59+03:00> [e10b0b38-fce7-4c49-8ee6-0d4cd1aaee3b]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:50:00+03:00> [e10b0b38-fce7-4c49-8ee6-0d4cd1aaee3b]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:50:01+03:00> [e10b0b38-fce7-4c49-8ee6-0d4cd1aaee3b]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:50:02+03:00> [e10b0b38-fce7-4c49-8ee6-0d4cd1aaee3b]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T02:50:02+03:00> error reading from client: EOF
+2024-12-08T02:50:02+03:00> Client disconnected (e10b0b38-fce7-4c49-8ee6-0d4cd1aaee3b)
+2024-12-08T03:02:28+03:00> Client connected (1ea7655e-7f88-47bc-9ad2-87b251609b6f)
+2024-12-08T03:02:28+03:00> [1ea7655e-7f88-47bc-9ad2-87b251609b6f]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T03:02:29+03:00> [1ea7655e-7f88-47bc-9ad2-87b251609b6f]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T03:02:30+03:00> [1ea7655e-7f88-47bc-9ad2-87b251609b6f]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T03:02:31+03:00> [1ea7655e-7f88-47bc-9ad2-87b251609b6f]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T03:02:32+03:00> [1ea7655e-7f88-47bc-9ad2-87b251609b6f]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T03:02:32+03:00> error reading from client: EOF
+2024-12-08T03:02:32+03:00> Client disconnected (1ea7655e-7f88-47bc-9ad2-87b251609b6f)
+2024-12-08T03:08:43+03:00> Client connected (30efd6ad-4d8b-442a-92c2-c7f23b87dc52)
+2024-12-08T03:08:43+03:00> [30efd6ad-4d8b-442a-92c2-c7f23b87dc52]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T03:08:44+03:00> [30efd6ad-4d8b-442a-92c2-c7f23b87dc52]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T03:08:45+03:00> [30efd6ad-4d8b-442a-92c2-c7f23b87dc52]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T03:08:46+03:00> [30efd6ad-4d8b-442a-92c2-c7f23b87dc52]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T03:08:47+03:00> error reading from client: EOF
+2024-12-08T03:08:47+03:00> Client disconnected (30efd6ad-4d8b-442a-92c2-c7f23b87dc52)
+2024-12-08T09:50:15+03:00> Client connected (d6f0526f-fcf6-466d-8a95-49522302ba76)
+2024-12-08T09:50:15+03:00> [d6f0526f-fcf6-466d-8a95-49522302ba76]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T09:50:16+03:00> [d6f0526f-fcf6-466d-8a95-49522302ba76]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:50:17+03:00> [d6f0526f-fcf6-466d-8a95-49522302ba76]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:50:18+03:00> [d6f0526f-fcf6-466d-8a95-49522302ba76]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:50:19+03:00> [d6f0526f-fcf6-466d-8a95-49522302ba76]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:50:20+03:00> error reading from client: EOF
+2024-12-08T09:50:20+03:00> Client disconnected (d6f0526f-fcf6-466d-8a95-49522302ba76)
+2024-12-08T09:50:25+03:00> Client connected (a8999c8f-c191-48c3-a02d-76e8c08b54b6)
+2024-12-08T09:50:25+03:00> [a8999c8f-c191-48c3-a02d-76e8c08b54b6]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T09:50:26+03:00> [a8999c8f-c191-48c3-a02d-76e8c08b54b6]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:50:27+03:00> [a8999c8f-c191-48c3-a02d-76e8c08b54b6]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:50:28+03:00> [a8999c8f-c191-48c3-a02d-76e8c08b54b6]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:50:28+03:00> error reading from client: EOF
+2024-12-08T09:50:28+03:00> Client disconnected (a8999c8f-c191-48c3-a02d-76e8c08b54b6)
+2024-12-08T09:51:44+03:00> Client connected (025cdc5a-fcca-401a-9b62-fba826912643)
+2024-12-08T09:51:44+03:00> [025cdc5a-fcca-401a-9b62-fba826912643]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T09:51:45+03:00> [025cdc5a-fcca-401a-9b62-fba826912643]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:51:46+03:00> [025cdc5a-fcca-401a-9b62-fba826912643]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:51:47+03:00> [025cdc5a-fcca-401a-9b62-fba826912643]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:51:48+03:00> [025cdc5a-fcca-401a-9b62-fba826912643]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T09:51:49+03:00> error reading from client: EOF
+2024-12-08T09:51:49+03:00> Client disconnected (025cdc5a-fcca-401a-9b62-fba826912643)
+2024-12-08T10:25:18+03:00> Client connected (7340b70b-8da9-4883-92e8-1c8823f46be0)
+2024-12-08T10:25:18+03:00> [7340b70b-8da9-4883-92e8-1c8823f46be0]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T10:25:21+03:00> [7340b70b-8da9-4883-92e8-1c8823f46be0]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:25:27+03:00> error reading from client: EOF
+2024-12-08T10:25:27+03:00> Client disconnected (7340b70b-8da9-4883-92e8-1c8823f46be0)
+2024-12-08T10:26:50+03:00> Client connected (c782107c-2371-4ef8-84eb-f482246090be)
+2024-12-08T10:26:50+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T10:26:52+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:52+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:53+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:53+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:54+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:54+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:54+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:55+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:55+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:57+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:26:58+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:27:03+03:00> [c782107c-2371-4ef8-84eb-f482246090be]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:27:10+03:00> error reading from client: EOF
+2024-12-08T10:27:10+03:00> Client disconnected (c782107c-2371-4ef8-84eb-f482246090be)
+2024-12-08T10:27:41+03:00> Client connected (76a8e273-c0cf-4824-abd9-8733b7c337dc)
+2024-12-08T10:27:41+03:00> [76a8e273-c0cf-4824-abd9-8733b7c337dc]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T10:27:42+03:00> [76a8e273-c0cf-4824-abd9-8733b7c337dc]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:27:43+03:00> [76a8e273-c0cf-4824-abd9-8733b7c337dc]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:27:44+03:00> error reading from client: EOF
+2024-12-08T10:27:44+03:00> Client disconnected (76a8e273-c0cf-4824-abd9-8733b7c337dc)
+2024-12-08T10:28:53+03:00> Client connected (2edab351-9e18-4b3b-af79-d919f4a28328)
+2024-12-08T10:28:53+03:00> [2edab351-9e18-4b3b-af79-d919f4a28328]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T10:28:55+03:00> [2edab351-9e18-4b3b-af79-d919f4a28328]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:28:56+03:00> [2edab351-9e18-4b3b-af79-d919f4a28328]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:28:56+03:00> [2edab351-9e18-4b3b-af79-d919f4a28328]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:28:56+03:00> [2edab351-9e18-4b3b-af79-d919f4a28328]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:28:57+03:00> [2edab351-9e18-4b3b-af79-d919f4a28328]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:28:57+03:00> [2edab351-9e18-4b3b-af79-d919f4a28328]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:28:57+03:00> error reading from client: EOF
+2024-12-08T10:28:57+03:00> Client disconnected (2edab351-9e18-4b3b-af79-d919f4a28328)
+2024-12-08T10:29:00+03:00> Client connected (a7658a91-ed74-4135-93a3-b9eb20deba47)
+2024-12-08T10:29:00+03:00> [a7658a91-ed74-4135-93a3-b9eb20deba47]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T10:29:01+03:00> [a7658a91-ed74-4135-93a3-b9eb20deba47]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:02+03:00> [a7658a91-ed74-4135-93a3-b9eb20deba47]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:03+03:00> [a7658a91-ed74-4135-93a3-b9eb20deba47]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:03+03:00> [a7658a91-ed74-4135-93a3-b9eb20deba47]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:03+03:00> [a7658a91-ed74-4135-93a3-b9eb20deba47]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:03+03:00> [a7658a91-ed74-4135-93a3-b9eb20deba47]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:04+03:00> error reading from client: EOF
+2024-12-08T10:29:04+03:00> Client disconnected (a7658a91-ed74-4135-93a3-b9eb20deba47)
+2024-12-08T10:29:06+03:00> Client connected (e11ab64d-8577-4987-9101-046c247237be)
+2024-12-08T10:29:06+03:00> [e11ab64d-8577-4987-9101-046c247237be]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-08T10:29:11+03:00> error reading from client: EOF
+2024-12-08T10:29:11+03:00> Client disconnected (e11ab64d-8577-4987-9101-046c247237be)
+2024-12-08T10:29:13+03:00> Client connected (d3f7ac61-a17f-4336-b6a8-3c1f81549f07)
+2024-12-08T10:29:13+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T10:29:14+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:15+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:16+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:17+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:18+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:19+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:20+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:21+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:22+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:23+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:24+03:00> [d3f7ac61-a17f-4336-b6a8-3c1f81549f07]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:29:24+03:00> error reading from client: EOF
+2024-12-08T10:29:24+03:00> Client disconnected (d3f7ac61-a17f-4336-b6a8-3c1f81549f07)
+2024-12-08T10:30:51+03:00> Client connected (13870172-10a9-410e-8c51-e60029fdf258)
+2024-12-08T10:30:51+03:00> [13870172-10a9-410e-8c51-e60029fdf258]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-08T10:30:52+03:00> [13870172-10a9-410e-8c51-e60029fdf258]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:30:53+03:00> [13870172-10a9-410e-8c51-e60029fdf258]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:30:54+03:00> [13870172-10a9-410e-8c51-e60029fdf258]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:30:55+03:00> [13870172-10a9-410e-8c51-e60029fdf258]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T10:30:55+03:00> error reading from client: EOF
+2024-12-08T10:30:55+03:00> Client disconnected (13870172-10a9-410e-8c51-e60029fdf258)
+2024-12-08T10:31:34+03:00> Client connected (06b4d331-adfd-4e81-8b51-666451ec8bc3)
+2024-12-08T10:31:34+03:00> [06b4d331-adfd-4e81-8b51-666451ec8bc3]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-08T10:31:38+03:00> error reading from client: EOF
+2024-12-08T10:31:38+03:00> Client disconnected (06b4d331-adfd-4e81-8b51-666451ec8bc3)
+2024-12-08T10:31:43+03:00> Client connected (7d04f4b8-df23-4f5e-9d60-8868ab918f04)
+2024-12-08T10:31:43+03:00> [7d04f4b8-df23-4f5e-9d60-8868ab918f04]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-08T10:31:46+03:00> error reading from client: EOF
+2024-12-08T10:31:46+03:00> Client disconnected (7d04f4b8-df23-4f5e-9d60-8868ab918f04)
+2024-12-08T10:32:23+03:00> Client connected (dfed55f0-b247-4773-be34-775385893a6b)
+2024-12-08T10:32:23+03:00> [dfed55f0-b247-4773-be34-775385893a6b]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-08T10:32:27+03:00> error reading from client: EOF
+2024-12-08T10:32:27+03:00> Client disconnected (dfed55f0-b247-4773-be34-775385893a6b)
+2024-12-08T10:32:36+03:00> Collector shutdown
+2024-12-08T23:51:05+03:00> Collector started
+2024-12-08T23:52:03+03:00> Client connected (11fe7e2b-30f2-44f5-96d0-a0b329101d81)
+2024-12-08T23:52:03+03:00> [11fe7e2b-30f2-44f5-96d0-a0b329101d81]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T23:52:05+03:00> [11fe7e2b-30f2-44f5-96d0-a0b329101d81]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T23:52:07+03:00> [11fe7e2b-30f2-44f5-96d0-a0b329101d81]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T23:52:09+03:00> error reading from client: EOF
+2024-12-08T23:52:09+03:00> Client disconnected (11fe7e2b-30f2-44f5-96d0-a0b329101d81)
+2024-12-08T23:52:11+03:00> Client connected (47c1c882-287c-4f75-addb-5d8655d337d3)
+2024-12-08T23:52:11+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T23:52:12+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:13+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:14+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:14+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:15+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:15+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:15+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:16+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:16+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:16+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:16+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:16+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:17+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:17+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:17+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:17+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:17+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:18+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:18+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:18+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:50+03:00> Client connected (0b54ac15-88f3-444d-8131-211e3bff5a9b)
+2024-12-08T23:52:50+03:00> [0b54ac15-88f3-444d-8131-211e3bff5a9b]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-08T23:52:51+03:00> [0b54ac15-88f3-444d-8131-211e3bff5a9b]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-08T23:52:52+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:53+03:00> [47c1c882-287c-4f75-addb-5d8655d337d3]: {"Command":"get_process","UpdateMethod":""}
+2024-12-08T23:52:53+03:00> error reading from client: EOF
+2024-12-08T23:52:53+03:00> Client disconnected (47c1c882-287c-4f75-addb-5d8655d337d3)
+2024-12-08T23:52:54+03:00> error reading from client: EOF
+2024-12-08T23:52:54+03:00> Client disconnected (0b54ac15-88f3-444d-8131-211e3bff5a9b)
+2024-12-08T23:52:58+03:00> Client connected (7591d506-decd-4bc5-94d8-922a507d4287)
+2024-12-08T23:52:58+03:00> [7591d506-decd-4bc5-94d8-922a507d4287]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-08T23:53:00+03:00> Client connected (504aada2-21b7-47b8-9a8e-b729d32d2759)
+2024-12-08T23:53:00+03:00> [504aada2-21b7-47b8-9a8e-b729d32d2759]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-08T23:53:08+03:00> error reading from client: EOF
+2024-12-08T23:53:08+03:00> Client disconnected (7591d506-decd-4bc5-94d8-922a507d4287)
+2024-12-08T23:53:09+03:00> error reading from client: EOF
+2024-12-08T23:53:09+03:00> Client disconnected (504aada2-21b7-47b8-9a8e-b729d32d2759)
+2024-12-08T23:54:06+03:00> Collector shutdown
+2024-12-09T00:00:13+03:00> Collector started
+2024-12-09T00:00:15+03:00> Client connected (b31266c3-8748-4517-beee-03a7882a7538)
+2024-12-09T00:00:15+03:00> [b31266c3-8748-4517-beee-03a7882a7538]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-09T00:00:18+03:00> error reading from client: EOF
+2024-12-09T00:00:18+03:00> Client disconnected (b31266c3-8748-4517-beee-03a7882a7538)
+2024-12-09T00:00:22+03:00> Client connected (24f33cb1-82bd-4038-a2e8-b87e6a4e7f79)
+2024-12-09T00:00:22+03:00> [24f33cb1-82bd-4038-a2e8-b87e6a4e7f79]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-09T00:00:26+03:00> error reading from client: EOF
+2024-12-09T00:00:26+03:00> Client disconnected (24f33cb1-82bd-4038-a2e8-b87e6a4e7f79)
+2024-12-09T00:00:27+03:00> Client connected (49728ec5-23fe-44a8-ac7f-5c4de2c5a0e4)
+2024-12-09T00:00:27+03:00> [49728ec5-23fe-44a8-ac7f-5c4de2c5a0e4]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-09T00:00:37+03:00> error reading from client: EOF
+2024-12-09T00:00:37+03:00> Client disconnected (49728ec5-23fe-44a8-ac7f-5c4de2c5a0e4)
+2024-12-09T00:19:07+03:00> Collector shutdown
+2024-12-09T11:56:07+03:00> Collector started
+2024-12-09T11:56:46+03:00> Client connected (9d554997-56bb-471e-bc42-6d5a97e45f57)
+2024-12-09T11:56:46+03:00> [9d554997-56bb-471e-bc42-6d5a97e45f57]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-09T11:56:46+03:00> [9d554997-56bb-471e-bc42-6d5a97e45f57]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-09T11:56:52+03:00> Client connected (e71ff30b-7543-433e-87ec-f13fcde00bf5)
+2024-12-09T11:56:52+03:00> [e71ff30b-7543-433e-87ec-f13fcde00bf5]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-09T11:56:53+03:00> [e71ff30b-7543-433e-87ec-f13fcde00bf5]: {"Command":"get_process","UpdateMethod":""}
+2024-12-09T11:56:55+03:00> [e71ff30b-7543-433e-87ec-f13fcde00bf5]: {"Command":"get_process","UpdateMethod":""}
+2024-12-09T11:56:56+03:00> error reading from client: EOF
+2024-12-09T11:56:56+03:00> Client disconnected (9d554997-56bb-471e-bc42-6d5a97e45f57)
+2024-12-09T11:56:57+03:00> error reading from client: EOF
+2024-12-09T11:56:57+03:00> Client disconnected (e71ff30b-7543-433e-87ec-f13fcde00bf5)
+2024-12-09T11:57:19+03:00> Collector shutdown
+2024-12-09T12:02:57+03:00> Collector started
+2024-12-09T12:03:00+03:00> Collector shutdown
+2024-12-09T12:04:47+03:00> Collector started
+2024-12-09T12:05:22+03:00> Client connected (0817905a-57d6-400e-806a-fa0b8e9472c0)
+2024-12-09T12:05:22+03:00> [0817905a-57d6-400e-806a-fa0b8e9472c0]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-09T12:05:23+03:00> [0817905a-57d6-400e-806a-fa0b8e9472c0]: {"Command":"get_process","UpdateMethod":""}
+2024-12-09T12:05:24+03:00> [0817905a-57d6-400e-806a-fa0b8e9472c0]: {"Command":"get_process","UpdateMethod":""}
+2024-12-09T12:05:25+03:00> Client connected (53aa2602-8655-42e7-8a9c-359310e59c59)
+2024-12-09T12:05:25+03:00> [53aa2602-8655-42e7-8a9c-359310e59c59]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-09T12:05:25+03:00> [53aa2602-8655-42e7-8a9c-359310e59c59]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-09T12:05:26+03:00> [53aa2602-8655-42e7-8a9c-359310e59c59]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-09T12:05:31+03:00> error reading from client: EOF
+2024-12-09T12:05:31+03:00> Client disconnected (53aa2602-8655-42e7-8a9c-359310e59c59)
+2024-12-09T12:05:32+03:00> error reading from client: EOF
+2024-12-09T12:05:32+03:00> Client disconnected (0817905a-57d6-400e-806a-fa0b8e9472c0)
+2024-12-09T12:05:38+03:00> Collector shutdown
+2024-12-09T15:43:19+03:00> listen tcp 127.0.0.1:8123: bind: address already in use
+2024-12-09T15:44:58+03:00> listen tcp 127.0.0.1:8123: bind: address already in use
+2024-12-09T15:46:36+03:00> Collector started
+2024-12-09T15:46:48+03:00> Collector shutdown
+2024-12-09T15:46:57+03:00> listen tcp 127.0.0.1:8123: bind: address already in use
+2024-12-09T15:48:05+03:00> Collector started
+2024-12-09T15:48:07+03:00> Collector shutdown
+2024-12-09T15:49:39+03:00> Collector started
+2024-12-09T15:49:43+03:00> Collector shutdown
+2024-12-09T15:49:47+03:00> Collector started
+2024-12-09T15:49:48+03:00> Collector shutdown
+2024-12-09T15:49:50+03:00> listen tcp 127.0.0.1:8123: bind: address already in use
+2024-12-09T15:52:03+03:00> Collector started
+2024-12-09T15:57:54+03:00> Collector shutdown
+2024-12-10T11:12:08+03:00> Collector started
+2024-12-10T11:12:12+03:00> Collector shutdown
+2024-12-10T11:13:17+03:00> Collector started
+2024-12-10T11:13:22+03:00> Collector shutdown

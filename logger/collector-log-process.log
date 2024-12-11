@@ -1,0 +1,86 @@
+2024-12-03T15:50:57+03:00> Client connected (7733afba-f078-48b8-a04b-ba1d0ddb80dc)
+2024-12-03T15:51:08+03:00> error reading from client: EOF
+2024-12-03T15:51:08+03:00> Client disconnected (7733afba-f078-48b8-a04b-ba1d0ddb80dc)
+2024-12-03T15:51:08+03:00> Client connected (d7014637-ef20-457c-a150-76d33a011935)
+2024-12-03T15:51:09+03:00> error reading from client: EOF
+2024-12-03T15:51:09+03:00> Client disconnected (d7014637-ef20-457c-a150-76d33a011935)
+2024-12-03T15:51:09+03:00> Client connected (e4be7141-1fb3-4be8-bcdc-925d0bcad312)
+2024-12-03T15:51:10+03:00> Collector shutdown
+2024-12-03T15:58:43+03:00> Collector started
+2024-12-03T15:58:46+03:00> Client connected (f43893b2-950e-4223-9119-3cde365e12ce)
+2024-12-03T15:58:55+03:00> [f43893b2-950e-4223-9119-3cde365e12ce]: {"command": "get_mouse"}
+
+2024-12-03T15:59:10+03:00> [f43893b2-950e-4223-9119-3cde365e12ce]: {"command": "get_mouse"}
+
+2024-12-03T16:04:02+03:00> Collector shutdown
+2024-12-03T16:04:03+03:00> Collector started
+2024-12-03T16:04:04+03:00> Client connected (02464696-b57c-4b93-964f-4ef882513e50)
+2024-12-03T16:04:10+03:00> [02464696-b57c-4b93-964f-4ef882513e50]: {"command": "get_mouse"}
+2024-12-03T16:04:13+03:00> [02464696-b57c-4b93-964f-4ef882513e50]: {"command": "get_mouse"}
+2024-12-03T16:04:14+03:00> [02464696-b57c-4b93-964f-4ef882513e50]: {"command": "get_mouse"}
+2024-12-03T16:04:15+03:00> [02464696-b57c-4b93-964f-4ef882513e50]: {"command": "get_mouse"}
+2024-12-03T16:04:17+03:00> [02464696-b57c-4b93-964f-4ef882513e50]: {"command": "get_mouse"}
+2024-12-03T16:04:36+03:00> error reading from client: EOF
+2024-12-03T16:04:36+03:00> Client disconnected (02464696-b57c-4b93-964f-4ef882513e50)
+2024-12-03T16:04:37+03:00> Collector shutdown
+2024-12-03T19:17:13+03:00> Collector started
+2024-12-03T19:17:31+03:00> Client connected (393d191b-8c95-4469-9425-f0a1130b1a0c)
+2024-12-03T19:17:36+03:00> error reading from client: EOF
+2024-12-03T19:17:36+03:00> Client disconnected (393d191b-8c95-4469-9425-f0a1130b1a0c)
+2024-12-03T19:36:05+03:00> Client connected (9c30e136-4df2-4f35-8c22-fd82c5b57549)
+2024-12-03T19:36:08+03:00> error reading from client: EOF
+2024-12-03T19:36:08+03:00> Client disconnected (9c30e136-4df2-4f35-8c22-fd82c5b57549)
+2024-12-03T21:30:10+03:00> Client connected (765b0a28-7d4f-4512-b791-37850ac01908)
+2024-12-03T21:30:13+03:00> error reading from client: EOF
+2024-12-03T21:30:13+03:00> Client disconnected (765b0a28-7d4f-4512-b791-37850ac01908)
+2024-12-03T21:34:29+03:00> Client connected (495fcf95-802e-4d40-9501-afb04673675a)
+2024-12-03T21:34:29+03:00> [495fcf95-802e-4d40-9501-afb04673675a]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T21:34:38+03:00> error reading from client: EOF
+2024-12-03T21:34:38+03:00> Client disconnected (495fcf95-802e-4d40-9501-afb04673675a)
+2024-12-03T21:35:27+03:00> Client connected (e7fdcecf-27fb-46e9-8a76-7cfecd09af7c)
+2024-12-03T21:35:27+03:00> [e7fdcecf-27fb-46e9-8a76-7cfecd09af7c]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-03T21:35:37+03:00> error reading from client: EOF
+2024-12-03T21:35:37+03:00> Client disconnected (e7fdcecf-27fb-46e9-8a76-7cfecd09af7c)
+2024-12-03T21:35:39+03:00> Client connected (951d2a12-4266-48bf-bc9f-73284c0a097b)
+2024-12-03T21:35:39+03:00> [951d2a12-4266-48bf-bc9f-73284c0a097b]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-03T21:35:53+03:00> error reading from client: EOF
+2024-12-03T21:35:53+03:00> Client disconnected (951d2a12-4266-48bf-bc9f-73284c0a097b)
+2024-12-03T21:35:55+03:00> Client connected (c7af7868-4061-4668-b60a-35905cfd09a9)
+2024-12-03T21:35:55+03:00> [c7af7868-4061-4668-b60a-35905cfd09a9]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-03T21:36:01+03:00> error reading from client: EOF
+2024-12-03T21:36:01+03:00> Client disconnected (c7af7868-4061-4668-b60a-35905cfd09a9)
+2024-12-03T21:51:26+03:00> Client connected (4e351609-b403-492d-b282-502ee6060b58)
+2024-12-03T21:51:26+03:00> [4e351609-b403-492d-b282-502ee6060b58]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T21:51:32+03:00> error reading from client: EOF
+2024-12-03T21:51:32+03:00> Client disconnected (4e351609-b403-492d-b282-502ee6060b58)
+2024-12-03T21:58:19+03:00> Client connected (e8bddf29-865d-408d-9403-20ae7698a6af)
+2024-12-03T21:58:19+03:00> [e8bddf29-865d-408d-9403-20ae7698a6af]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T21:58:33+03:00> error reading from client: EOF
+2024-12-03T21:58:33+03:00> Client disconnected (e8bddf29-865d-408d-9403-20ae7698a6af)
+2024-12-03T21:59:41+03:00> Client connected (9e5ac98f-422a-4b23-9111-ba26f1ce88a9)
+2024-12-03T21:59:41+03:00> [9e5ac98f-422a-4b23-9111-ba26f1ce88a9]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T21:59:44+03:00> error reading from client: EOF
+2024-12-03T21:59:44+03:00> Client disconnected (9e5ac98f-422a-4b23-9111-ba26f1ce88a9)
+2024-12-03T22:01:13+03:00> Client connected (9bceaa2a-96a6-47ee-ba99-70729fdd34d2)
+2024-12-03T22:01:13+03:00> [9bceaa2a-96a6-47ee-ba99-70729fdd34d2]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T22:01:17+03:00> error reading from client: EOF
+2024-12-03T22:01:17+03:00> Client disconnected (9bceaa2a-96a6-47ee-ba99-70729fdd34d2)
+2024-12-03T22:01:34+03:00> Client connected (9a8d6d67-3f88-413b-9f02-902209237863)
+2024-12-03T22:01:34+03:00> [9a8d6d67-3f88-413b-9f02-902209237863]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T22:01:38+03:00> error reading from client: EOF
+2024-12-03T22:01:38+03:00> Client disconnected (9a8d6d67-3f88-413b-9f02-902209237863)
+2024-12-03T22:02:04+03:00> Client connected (8d8b9cf1-3501-42ca-92f2-7e446240fcd2)
+2024-12-03T22:02:04+03:00> [8d8b9cf1-3501-42ca-92f2-7e446240fcd2]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-03T22:02:09+03:00> error reading from client: EOF
+2024-12-03T22:02:09+03:00> Client disconnected (8d8b9cf1-3501-42ca-92f2-7e446240fcd2)
+2024-12-03T22:02:27+03:00> Collector shutdown
+2024-12-09T15:37:17+03:00> Collector started
+2024-12-09T15:46:00+03:00> Collector shutdown
+2024-12-09T15:46:12+03:00> Collector started
+2024-12-09T15:46:15+03:00> Collector shutdown
+2024-12-09T15:46:18+03:00> Collector started
+2024-12-09T15:46:19+03:00> Collector shutdown
+2024-12-09T15:46:20+03:00> Collector started
+2024-12-09T15:46:29+03:00> Collector shutdown
+2024-12-09T15:46:53+03:00> Collector started
+2024-12-09T15:57:52+03:00> Collector shutdown

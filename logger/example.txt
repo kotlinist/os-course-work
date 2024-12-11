@@ -1,0 +1,1 @@
+2024-12-03T15:10:57+03:00> Client connected (680c06e8-380f-4689-8af5-dae87bed99f8)2024-12-03T15:17:58+03:00> Collector shutdown

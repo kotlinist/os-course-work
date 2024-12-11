@@ -1,0 +1,16 @@
+version: "3.8"
+services:
+  process-collector:
+    image: kotlinist/collector-process:0.0.1-alpine-amd64
+    ports:
+      - "8123:8123"
+    volumes:
+      - "./process.log:/collector-log-process.log"
+
+  mouse-collector:
+    image: kotlinist/collector-mouse:0.0.1-alpine-amd64
+    ports:
+      - "8124:8123"
+    volumes:
+      - "./mouse.log:/collector-log-mouse.log"
+      - "./collector/fake-devices:/collector/devices:ro"

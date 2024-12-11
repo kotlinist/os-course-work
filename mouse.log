@@ -1,0 +1,43 @@
+2024-12-10T07:26:56Z> Collector started
+2024-12-10T07:27:55Z> Client connected (c1d61522-c864-4265-995e-13b11ddc9e04)
+2024-12-10T07:27:55Z> [c1d61522-c864-4265-995e-13b11ddc9e04]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-10T07:27:56Z> [c1d61522-c864-4265-995e-13b11ddc9e04]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-10T07:27:59Z> [c1d61522-c864-4265-995e-13b11ddc9e04]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-10T07:28:02Z> error reading from client: EOF
+2024-12-10T07:28:02Z> Client disconnected (c1d61522-c864-4265-995e-13b11ddc9e04)
+2024-12-10T07:28:29Z> Collector started
+2024-12-10T07:28:36Z> Client connected (fbe2ce05-a3d5-41c3-8013-5ce40ee5511a)
+2024-12-10T07:28:36Z> [fbe2ce05-a3d5-41c3-8013-5ce40ee5511a]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-10T07:28:37Z> [fbe2ce05-a3d5-41c3-8013-5ce40ee5511a]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-10T07:28:39Z> [fbe2ce05-a3d5-41c3-8013-5ce40ee5511a]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-10T07:28:40Z> [fbe2ce05-a3d5-41c3-8013-5ce40ee5511a]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-10T07:28:42Z> error reading from client: EOF
+2024-12-10T07:28:42Z> Client disconnected (fbe2ce05-a3d5-41c3-8013-5ce40ee5511a)
+2024-12-10T07:28:44Z> Client connected (4c2f188d-3eec-43d3-b4b2-3e63f12e57f9)
+2024-12-10T07:28:44Z> [4c2f188d-3eec-43d3-b4b2-3e63f12e57f9]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-10T07:28:48Z> error reading from client: EOF
+2024-12-10T07:28:48Z> Client disconnected (4c2f188d-3eec-43d3-b4b2-3e63f12e57f9)
+2024-12-10T07:29:50Z> Collector started
+2024-12-10T07:29:54Z> Client connected (1643abe8-1ef8-4bfa-86fb-01b750a95282)
+2024-12-10T07:29:54Z> [1643abe8-1ef8-4bfa-86fb-01b750a95282]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-10T07:29:58Z> error reading from client: EOF
+2024-12-10T07:29:58Z> Client disconnected (1643abe8-1ef8-4bfa-86fb-01b750a95282)
+2024-12-11T08:45:39Z> Collector started
+2024-12-11T08:46:20Z> Client connected (4250ec5f-f2d6-4aa5-9f67-01621f494301)
+2024-12-11T08:46:20Z> [4250ec5f-f2d6-4aa5-9f67-01621f494301]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-11T08:46:20Z> [4250ec5f-f2d6-4aa5-9f67-01621f494301]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-11T08:47:40Z> [4250ec5f-f2d6-4aa5-9f67-01621f494301]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-11T08:48:17Z> error reading from client: EOF
+2024-12-11T08:48:17Z> Client disconnected (4250ec5f-f2d6-4aa5-9f67-01621f494301)
+2024-12-11T08:50:11Z> Collector started
+2024-12-11T08:50:47Z> Collector started
+2024-12-11T09:42:29Z> Collector started
+2024-12-11T09:57:25Z> Client connected (3ef0095e-c79f-4ffc-a104-378bea1fa218)
+2024-12-11T09:57:25Z> [3ef0095e-c79f-4ffc-a104-378bea1fa218]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-11T09:57:26Z> [3ef0095e-c79f-4ffc-a104-378bea1fa218]: {"Command":"get_mouse","UpdateMethod":""}
+2024-12-11T09:57:36Z> error reading from client: EOF
+2024-12-11T09:57:36Z> Client disconnected (3ef0095e-c79f-4ffc-a104-378bea1fa218)
+2024-12-11T09:57:44Z> Client connected (6d3848b2-5ec7-424b-96f6-797c02ef5586)
+2024-12-11T09:57:44Z> [6d3848b2-5ec7-424b-96f6-797c02ef5586]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-11T09:57:53Z> error reading from client: EOF
+2024-12-11T09:57:53Z> Client disconnected (6d3848b2-5ec7-424b-96f6-797c02ef5586)

@@ -1,0 +1,60 @@
+2024-12-10T07:18:37Z> Collector started
+2024-12-10T07:18:48Z> Client connected (9701d1c4-a49c-4988-b5bd-3d7a03331f83)
+2024-12-10T07:18:48Z> [9701d1c4-a49c-4988-b5bd-3d7a03331f83]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-10T07:18:49Z> [9701d1c4-a49c-4988-b5bd-3d7a03331f83]: {"Command":"get_process","UpdateMethod":""}
+2024-12-10T07:18:49Z> [9701d1c4-a49c-4988-b5bd-3d7a03331f83]: {"Command":"get_process","UpdateMethod":""}
+2024-12-10T07:18:54Z> [9701d1c4-a49c-4988-b5bd-3d7a03331f83]: {"Command":"get_process","UpdateMethod":""}
+2024-12-10T07:19:04Z> error reading from client: EOF
+2024-12-10T07:19:04Z> Client disconnected (9701d1c4-a49c-4988-b5bd-3d7a03331f83)
+2024-12-10T07:24:12Z> Collector started
+2024-12-10T07:28:29Z> Collector started
+2024-12-10T07:29:50Z> Collector started
+2024-12-11T08:45:39Z> Collector started
+2024-12-11T08:46:27Z> Client connected (bf20fb77-1196-4c9a-a057-e038c961cb39)
+2024-12-11T08:46:27Z> [bf20fb77-1196-4c9a-a057-e038c961cb39]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-11T08:46:28Z> [bf20fb77-1196-4c9a-a057-e038c961cb39]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T08:47:43Z> [bf20fb77-1196-4c9a-a057-e038c961cb39]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T08:48:18Z> error reading from client: EOF
+2024-12-11T08:48:18Z> Client disconnected (bf20fb77-1196-4c9a-a057-e038c961cb39)
+2024-12-11T08:50:11Z> Collector started
+2024-12-11T08:50:47Z> Collector started
+2024-12-11T08:50:48Z> Client connected (90c11a75-f3c0-47e9-acb3-b3acd6257d08)
+2024-12-11T08:50:48Z> [90c11a75-f3c0-47e9-acb3-b3acd6257d08]: {"Command":"set","UpdateMethod":"manual"}
+2024-12-11T08:50:49Z> [90c11a75-f3c0-47e9-acb3-b3acd6257d08]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T08:50:53Z> error reading from client: EOF
+2024-12-11T08:50:53Z> Client disconnected (90c11a75-f3c0-47e9-acb3-b3acd6257d08)
+2024-12-11T09:42:29Z> Collector started
+2024-12-11T09:58:01Z> Client connected (e6a85f2d-4677-4753-ad6c-c366fe4d3bae)
+2024-12-11T09:58:01Z> [e6a85f2d-4677-4753-ad6c-c366fe4d3bae]: {"Command":"set","UpdateMethod":"server_events"}
+2024-12-11T09:58:13Z> error reading from client: EOF
+2024-12-11T09:58:13Z> Client disconnected (e6a85f2d-4677-4753-ad6c-c366fe4d3bae)
+2024-12-11T09:58:22Z> Client connected (790e71a2-0363-4264-a611-2dbf1a2117a4)
+2024-12-11T09:58:22Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"set","UpdateMethod":"client_polling"}
+2024-12-11T09:58:23Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:24Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:25Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:26Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:27Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:28Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:29Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:30Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:31Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:32Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:33Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:34Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:35Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:36Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:37Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:38Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:39Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:40Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:41Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:42Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:43Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:44Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:45Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:46Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:47Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:48Z> [790e71a2-0363-4264-a611-2dbf1a2117a4]: {"Command":"get_process","UpdateMethod":""}
+2024-12-11T09:58:49Z> error reading from client: EOF
+2024-12-11T09:58:49Z> Client disconnected (790e71a2-0363-4264-a611-2dbf1a2117a4)

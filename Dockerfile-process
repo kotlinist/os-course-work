@@ -1,0 +1,28 @@
+# Start from the official Go image
+FROM golang:alpine3.21
+
+# Set the Current Working Directory inside the container
+WORKDIR /logger
+# Copy go.mod and go.sum files
+COPY logger/go.mod ./
+# Download all dependencies
+RUN go mod download
+# Copy the source from the current directory to the Working Directory inside the container
+COPY logger/* .
+# Build the Go app
+RUN go build -o /logger/main /logger/main.go
+
+WORKDIR /collector
+COPY collector/go.mod ./
+RUN go mod download
+COPY collector/* .
+RUN go build
+
+
+# Expose port 8080 to the outside world
+EXPOSE 8123
+# Set environment variable for Gin mode
+#ENV GIN_MODE=release
+
+COPY process-wrapper.sh /run.sh
+CMD cd / && chmod +x run.sh && sh /run.sh

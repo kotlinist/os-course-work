@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="kotlinist@192.168.7.106:22" type="ssh/sftp" uuid="93874ce0-ac9e-495a-a3bc-b27465a73199">
+        <config>
+          <option name="projectRootOnTarget" value="/home/kotlinist/logger" />
+          <option name="serverName" value="kotlinist@192.168.7.106:22 agent" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
